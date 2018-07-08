@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>练习：自定义指令</title>
+	<script src="js/vue.js"></script>
+	<style>
+		#itany div{
+			width: 100px;
+			height: 100px;
+			position:absolute;
+		}
+		#itany .hello{
+			background-color:red;
+			top:0;
+			left:0;
+		}
+		#itany .world{
+			background-color:blue;
+			top:0;
+			right:0;
+		}
+
+	</style>
+</head>
+<body>
+	<div id="itany">
+		<div class="hello" v-drag>前端</div>
+		<div class="world" v-drag>VUE</div>
+	</div>
+
+	<script>
+		Vue.directive('drag',function(el){
+			el.onmousedown=function(e){
+				//获取鼠标点击处分别与div左边和上边的距离：鼠标位置-div位置
+				var disX=e.clientX-el.offsetLeft;
+				var disY=e.clientY-el.offsetTop;
+			  console.log(disX,disY);
+
+				//包含在onmousedown里面，表示点击后才移动，为防止鼠标移出div，使用document.onmousemove
+				document.onmousemove=function(e){
+					//获取移动后div的位置：鼠标位置-disX/disY
+					var l=e.clientX-disX;
+					var t=e.clientY-disY;
+					el.style.left=l+'px';
+					el.style.top=t+'px';
+				}
+
+				//停止移动
+				document.onmouseup=function(e){
+					document.onmousemove=null;
+					document.onmouseup=null;
+				}
+
+			}
+		});
+
+		var vm=new Vue({
+			el:'#itany',
+			data:{
+				msg:'welcome to beijing',
+				username:'alice'
+			},
+			methods:{
+				change(){
+					this.msg='欢迎来到厦门'
+				}
+			}
+		});
+	</script>
+
+</body>
+</html>
