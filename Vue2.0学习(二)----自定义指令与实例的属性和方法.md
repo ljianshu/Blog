@@ -1,3 +1,5 @@
+如果有需要源代码，请猛戳[源代码](https://github.com/ljianshu/Blog/tree/master/vue2.0%E5%AD%A6%E4%B9%A0)
+希望文章给大家些许帮助和启发，麻烦大家在GitHub上面点个赞！！！十分感谢
 ## 一、自定义指令
 Vue自定义指令和组件一样存在着全局注册和局部注册两种方式。先来看看注册全局指令的方式，**通过 Vue.directive( id, [definition] ) 方式注册全局指令**，第二个参数可以是对象数据，也可以是一个指令函数。
 
