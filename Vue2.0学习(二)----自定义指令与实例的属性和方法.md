@@ -46,6 +46,7 @@ Vue.directive('world', {
 得到如下结果：
 
 ![](https://user-gold-cdn.xitu.io/2018/7/8/1647a6419a73e790?w=582&h=200&f=png&s=21246)
+
 有时候需要给标签加权限，标签根据不同角色决定是否存在，我们也可定义一个指令v-power
 ```
 <div v-power="'DOUBLE_TEACHER_ADMIN,ADMIN'">
