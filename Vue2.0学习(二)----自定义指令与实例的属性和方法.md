@@ -31,7 +31,7 @@ binding：一个对象，包含以下属性：
     modifiers：一个包含修饰符的对象。例如：v-my-directive.foo.bar 中，修饰符对象为 { foo: true, bar: true }
 ```
 <div id="itany">
-   <h3 v-world:wbs17022.hehe.haha="username">{{msg}}</h3>
+   <h3 v-world:wbs17022.hehe.haha="username">{{msg}}</h3>//username此处是个变量
 </div>
 ...
 // 钩子函数的参数
@@ -42,6 +42,13 @@ Vue.directive('world', {
     console.log(binding); 
   }
 });
+var vm=new Vue({
+	el:'#itany',
+	data:{
+		msg:'welcome to beijing',
+		username:'alice'
+	}
+})		
 ```   
 得到如下结果：
 
@@ -54,7 +61,7 @@ Vue.directive('world', {
 Vue.directive("power", {
   bind(el,binding) {
     const accessRoles = binding.value;
-    const role = store.state.user.userAccount.type
+    const role = store.state.user.userAccount.type //获取当前登入系统的角色
     if(accessRoles.split(',').indexOf(role)=== -1){
       Vue.nextTick(()=>{
         el.parentNode.removeChild(el)
@@ -256,9 +263,9 @@ var vm = new Vue({
     name: 'tom'
   }
 });
-vm.name='汤姆';//页面展示已经更改过来了，但DOM还没更新完
+vm.name='汤姆';//虽然页面展示已经更改过来了，但DOM还没更新完
 //Vue实现响应式并不是数据发生改变之后DOM立即变化，需要按一定的策略进行DOM更新，需要时间！！
-console.log(vm.$refs.title.textContent);//标题：tom
+console.log(vm.$refs.title.textContent);//标题：tom 取到的值还是旧的
 vm.$nextTick(function () {
 //DOM更新完成，更新完成后再执行此代码
   console.log(vm.$refs.title.textContent);标题：汤姆
@@ -274,7 +281,7 @@ vm.$nextTick(function () {
 
 {any} value
 
-用法：向响应式对象中添加一个属性，并确保这个新属性同样是响应式的，且触发视图更新。它必须用于向响应式对象上添加新属性，因为**Vue 无法探测普通的新增属性**,比如 下面例子中的this.user.age=25，页面并不能展示{{this.age}}的数据
+用法：**向响应式对象中添加一个属性，并确保这个新属性同样是响应式的，且触发视图更新。它必须用于向响应式对象上添加新属性，因为Vue 无法探测普通的新增属性**,比如下面例子中的this.user.age=25，页面并不能展示{{this.age}}的数据
 ```
 <div id="itany">
   <button @click="doAdd">添加属性</button>
