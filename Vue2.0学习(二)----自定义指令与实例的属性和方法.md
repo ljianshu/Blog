@@ -1,4 +1,5 @@
 如果有需要源代码，请猛戳[源代码](https://github.com/ljianshu/Blog/tree/master/vue2.0%E5%AD%A6%E4%B9%A0)
+
 希望文章给大家些许帮助和启发，麻烦大家在GitHub上面点个赞！！！十分感谢
 ## 一、自定义指令
 Vue自定义指令和组件一样存在着全局注册和局部注册两种方式。先来看看注册全局指令的方式，**通过 Vue.directive( id, [definition] ) 方式注册全局指令**，第二个参数可以是对象数据，也可以是一个指令函数。
@@ -45,6 +46,22 @@ Vue.directive('world', {
 得到如下结果：
 
 ![](https://user-gold-cdn.xitu.io/2018/7/8/1647a6419a73e790?w=582&h=200&f=png&s=21246)
+有时候需要给标签加权限，标签根据不同角色决定是否存在，我们也可定义一个指令v-power
+```
+<div v-power="'DOUBLE_TEACHER_ADMIN,ADMIN'">
+......
+Vue.directive("power", {
+  bind(el,binding) {
+    const accessRoles = binding.value;
+    const role = store.state.user.userAccount.type
+    if(accessRoles.split(',').indexOf(role)=== -1){
+      Vue.nextTick(()=>{
+        el.parentNode.removeChild(el)
+      })
+    }
+    }
+})
+```
 ### 3.函数简写  
 在很多时候，你可能想在 bind 和 update 时触发相同行为，而不关心其它的钩子
 ```
