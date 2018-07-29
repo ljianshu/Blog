@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>父子组件及组件间数据传递</title>
+  <script src="js/vue.js"></script>
+</head>
+
+<body>
+  <div id="itany">
+    <h2>父组件:{{name}}</h2>
+    <input type="text" v-model="name">
+    <my-hello :name="name"></my-hello>
+  </div>
+
+  <template id="hello">
+    <div>
+      <h3>子组件{{username}}</h3>
+      <button @click="change">修改数据</button>
+    </div>
+  </template>
+
+  <script>
+    var vm = new Vue({ //父组件
+      el: '#itany',
+      data: {
+        name: "tom"
+      },
+      components: {
+        'my-hello': { //子组件
+          props: ["name"],
+          template: '#hello',
+          data() {
+            return {
+              username: this.name
+            }
+          },
+        //   computed: {
+        //     changeName() {
+        //       return this.name
+        //     }
+        //   },
+          methods: {
+            change() {
+              this.username = "alice";
+              // this.changeName = "alice";该方法无效，不能直接更改计算属性
+            }
+          },
+        }
+      }
+    });
+  </script>
+</body>
+
+</html>
