@@ -1,0 +1,84 @@
+## 前言
+浏览器的兼容性问题是个很庞大复杂的问题，很难找到四海皆准的办法，这里我们只是简单介绍下几种经典的处理兼容性问题的方法。
+
+## 一、什么是浏览器的兼容性问题
+浏览器兼容性问题又被称为网页兼容性或网站兼容性问题，**指网页在各种浏览器上的显示效果可能不一致而产生浏览器和网页间的兼容问题**。在网站的设计和制作中，做好浏览器兼容，才能够让网站在不同的浏览器下都正常显示。而对于浏览器软件的开发和设计，浏览器对标准的更好兼容能够给用户更好的使用体验。
+## 二、为什么会有兼容性问题
+主要原因有以下三个方面：  
+- 同一产品，版本越老，bug越多
+
+-  同一产品，版本越新，功能越多
+
+- 不同产品，不同标准，不同实现方式
+
+## 三、处理兼容性问题的思路
+>思路1：从产品的角度
+
+ -   首先了解产品的受众，比如是面向年轻群体，还是面向政府或单位部门
+ -   然后查询受众的浏览器比例，可以通过[浏览器市场份额](http://tongji.baidu.com/data/browser)网站
+  -   再者确定**效果优先**还是**基本功能优先**
+  
+**渐进增强(progressive enhancement)**: 针对低版本浏览器进行构建页面，保证最基本的功能，然后再针对高级浏览器进行效果、交互等改进和追加功能达到更好的用户体验
+
+**优雅降级 (graceful degradation)**: 一开始就构建完整的功能，然后再针对低版本浏览器进行兼容。
+
+ >思路2：从产品实现难度和开发成本——是否值得做
+ 
+## 四、如何处理兼容性问题
+首先我们先[查阅CSS属性兼容](http://caniuse.com/)，可以得到该css属性在目标浏览器是否兼容，如下图所示一些常见的css属性兼容性：
+
+![常见css属性兼容性](https://user-gold-cdn.xitu.io/2018/6/30/1644fb5dec4b7a2b?w=349&h=378&f=png&s=17133)
+
+>1、根据兼容需求选择技术框架／库（jquery）
+
+![常见js库的兼容性](https://user-gold-cdn.xitu.io/2018/6/30/1644fb5dec25431c?w=299&h=217&f=png&s=13033)
+
+>2、根据兼容需求选择兼容工具（[html5shiv.js](https://github.com/aFarkas/html5shiv)、[respond.js](https://github.com/scottjehl/Respond)、[css reset](https://segmentfault.com/a/1190000003021766)、[normalize.css](https://github.com/necolas/normalize.css)、[Modernizr](https://github.com/Modernizr/Modernizr)）
+
+ -   HTML5Shiv——让 IE 6-8 支持 HTML5 标签并添加默认样式
+ -   respond.js——让 IE 6-8 支持 min/max-width CSS3 媒体查询。**注意： 引用 respond.js 的 `<script>` 标签应放在所有 CSS 文件之后。**
+ -   css reset（**革命派**）——将浏览器的默认样式全部去掉，更准确说就是通过重新定义标签样式
+ -  normalize.css（**改良派**）——和css reset的用法一样，但是不再像后者那样简单粗暴的将所有的样式去掉，而是保留了一些合理的样式。他们提倡的是每个元素都有存在的意义！
+ -  Modernizr——Modernizr 是一个用来检测浏览器功能支持情况的 JavaScript 库。当你在网页中嵌入Modernizr的脚本时，它会检测当前浏览器是否支持CSS3的特性，比如 @font-face、border-radius、 border-image等，同时也会检测是否支持HTML5的 特性，比如audio、video、本地储存、和新的 `<input>`标签的类型和属性等。在获取到这些信息的基础上，你可以在那些支持这些功能的浏览器上使用它们，来决定是否创建一个基于JS的 fallback，或者对那些不支持的浏览器进行简单的优雅降级。如果浏览器不支持某个特性，它就为该特性对应的类名加上“no-”的前缀。
+>3、[postCSS](https://github.com/postcss/postcss)
+
+postCSS可以被理解为一个平台，可以让一些插件在上面跑，它提供了一个解析器，可以将CSS解析成抽象语法树，通过PostCSS这个平台，我们能够开发一些插件，来处理CSS。热门插件如autoprefixer，它可以帮我们处理兼容问题，**只需正常写CSS，autoprefixer可以帮我的自动生成兼容性代码**。PostCSS的目标是通过自定义插件和工具这样的生态系统来改造CSS。与Sass和Less这些预编译器相同的原则，PostCSS把扩展的语法和特性转换成现代的浏览器友好的CSS。
+>4、利用CSS Hack、js 能力检测做一些修补
+
+**CSS Hack**:由于不同厂商的浏览器，比如Internet Explorer，Safari，Mozilla Firefox，Chrome等，或者是同一厂商的浏览器的不同版本，如IE6和IE7，对CSS的解析认识不完全一样，因此会导致生成的页面效果不一样，得不到我们所需要的页面效果。这个时候我们就需要针对不同的浏览器去写不同的CSS，让它能在不同的浏览器中也能得到我们想要的页面效果。
+**CSS Hack 大致有3种表现形式，CSS属性前缀法、选择器前缀法以及IE条件注释法（即HTML头部引用if IE）Hack**，实际项目中CSS Hack大部分是针对IE浏览器不同版本之间的表现差异而引入的。可以通过[browserhacks](http://browserhacks.com/) 查 Hack 的写法。
+- 属性前缀法（即类内部Hack）：例如 IE6能识别下划线 _ 和星号 *，IE7能识别星号 *，但不能识别下划线 _，IE6~IE10都认识 \9，但firefox前述三个都不能认识。该方法不便于记忆，可以通过[Autoprefixer](http://autoprefixer.github.io),自动添加浏览器前缀。
+```
+.header{_width:100px;} /*ie6专用*/ 
+.header{*+width:100px;} /*ie7专用*/ 
+.header{*width:100px;} /*ie6，ie7共用*/ 
+.header{width:100px\0;} /*ie8,ie9共用*/
+.header{width:100px\9;} /*ie6,ie7,ie8,ie9共用*/ 
+.header{_width:300px\9\0;} /*ie9专用*/
+```
+
+
+-   选择器前缀法（即选择器Hack）
+-   IE条件注释法（即HTML条件注释Hack）：针对所有IE（**注：IE10+已经不再支持条件注释**）。这类Hack不仅对CSS生效，对写在判断语句里面的所有代码都会生效。
+另外也可以利用X-UA-Compatible，让 IE 以最新版本的模式运行。
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+![条件注释](https://user-gold-cdn.xitu.io/2018/6/30/1644fb7f3be5d790?w=552&h=492&f=png&s=26678)
+例如：
+```
+<!--[if lt IE 9]>
+  <script src="https://cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+<![endif]--> 
+```
+```<!--[if IE 6]><html class="ie6 old-ie"><![endif]-->
+<!--[if IE 7]><html class="ie7 old-ie"><![endif]-->
+<!--[if IE 8]><html class="ie8 old-ie"><![endif]-->
+<!--[if IE 9]><html class="ie9"><![endif]-->
+<![if !IE]><html><![endif]>
+```
+## 五、测试工具
+- IE 11 -> F12 开发人员工具 -> **仿真**选项卡推荐
+- F2etest https://github.com/alibaba/f2etest
+- IEtester不支持 Win10
+- Modern.IE
