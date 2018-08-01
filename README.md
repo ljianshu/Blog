@@ -15,6 +15,7 @@
 #### 1.[JavaScript运行机制](https://github.com/ljianshu/Blog/blob/master/JavaScript%E8%BF%90%E8%A1%8C%E6%9C%BA%E5%88%B6.md)
 #### 2.[JavaScript预解释是一种毫无节操的机制](https://github.com/ljianshu/Blog/blob/master/JavaScript%E9%A2%84%E8%A7%A3%E9%87%8A%E6%98%AF%E4%B8%80%E7%A7%8D%E6%AF%AB%E6%97%A0%E8%8A%82%E6%93%8D%E7%9A%84%E6%9C%BA%E5%88%B6.md)
 #### 3.[JavaScript中数据类型](https://github.com/ljianshu/Blog/blob/master/JavaScript%E4%B8%AD%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
+#### 4.[浅拷贝与深拷贝](https://github.com/ljianshu/Blog/blob/master/%E6%B5%85%E6%8B%B7%E8%B4%9D%E4%B8%8E%E6%B7%B1%E6%8B%B7%E8%B4%9D.md)
 ## Http协议
 #### 1.[关于Http协议，你必须要知道的](https://github.com/ljianshu/Blog/blob/master/%E5%85%B3%E4%BA%8EHttp%E5%8D%8F%E8%AE%AE%EF%BC%8C%E4%BD%A0%E5%BF%85%E9%A1%BB%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%84.md)
 #### 2.[关于Http协议一些重要概念](https://github.com/ljianshu/Blog/blob/master/%E5%85%B3%E4%BA%8EHttp%E5%8D%8F%E8%AE%AE%E4%B8%80%E4%BA%9B%E9%87%8D%E8%A6%81%E6%A6%82%E5%BF%B5.md)
