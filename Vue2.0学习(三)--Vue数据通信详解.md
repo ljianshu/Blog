@@ -1,3 +1,6 @@
+如果有需要源代码，请猛戳[源代码](https://github.com/ljianshu/Blog/tree/master/vue2.0%E5%AD%A6%E4%B9%A0)
+
+希望文章给大家些许帮助和启发，麻烦大家在GitHub上面点个赞！！！十分感谢
 ## 一、前言
 组件是 vue.js最强大的功能之一，而组件实例的作用域是相互独立的，这就意味着不同组件之间的数据无法相互引用。组件间如何传递数据就显得至关重要。本文尽可能罗列出一些常见的数据传递方式，如props、`$emit`/`$on`和vuex以及新出的`$attrs`/`$listeners`和provide/inject，以通俗易懂的实例讲述这其中的差别，希望对小伙伴有些许帮助。
 ## 二、props
