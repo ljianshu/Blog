@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.5.17/dist/vue.js"></script>
+    <title>Extends</title>
+</head>
+
+<body>
+    <h1>Extends</h1>
+    <hr>
+    <div id="app">
+        num:{{ num }}
+        <p>
+            <button @click="add">add</button>
+        </p>
+    </div>
+    <script type="text/javascript">
+        var bbb = {
+            updated() {
+                console.log("我是被扩展出来的");
+            },
+            methods: {
+                add: function () {  //跟原生的方法冲突，取原生的方法，这点跟混入一样
+                    console.log('我是被扩展出来的add方法！');
+                    this.num++;
+                }
+            }
+        }
+        Vue.extend({
+            updated: function () {
+                console.log("我是全局的扩展")
+            }
+        })
+        var app = new Vue({
+            el: '#app',
+            data: {
+                num: 1
+            },
+            methods: {
+                add: function () {
+                    console.log('我是原生add方法');
+                    this.num++;
+                }
+            },
+            updated() {
+                console.log("我是扩展出来的");
+            },
+            extends: bbb// 接收对象和函数
+        })
+    </script>
+</body>
+
+</html>

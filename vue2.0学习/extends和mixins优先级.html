@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <script src="https://cdn.bootcss.com/vue/2.5.17-beta.0/vue.min.js"></script>
+</head>
+<body>
+  <div id="app">
+    <p>mixin的data值为:{{mixinData}}</p>
+    <button @click="getSum()">点我触发getSum方法</button>
+  </div>
+</body>
+<script>
+  var extend={
+    data:{extendData:'我是extend的data'},
+    created:function(){
+      console.log('这是extend的created');
+    }
+  }
+  var mixin={
+    data:{mixinData:'我是mixin的data'},
+    created:function(){
+      console.log('这是mixin的created');
+    }
+  }
+  var vm=new Vue({
+    el:'#app',
+    data:{mixinData:'我是vue实例的data'},
+    created:function(){
+      console.log('这是vue实例的created');
+    },
+    methods:{
+      getSum:function(){
+        console.log('这是vue实例里面getSum的方法');
+      }
+    },
+    mixins:[mixin],
+    extends:extend
+  })
+</script>
+</html>
