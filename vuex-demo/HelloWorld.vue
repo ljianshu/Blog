@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <p>click {{$store.state.count}} times,count is {{$store.getters.evenOrOdd}}</p>
+    <p>click {{count}} times,count is {{evenOrOdd}}</p>
     <button @click="increment">+</button>
     <button @click="decrement">-</button>
     <button @click="incrementIfOdd">increment if odd</button>
@@ -12,8 +12,11 @@
 export default {
   name: "HelloWorld",
   computed: {
+    count() {
+      return this.$store.state.count;
+    },
     evenOrOdd() {
-      return $store.getters.evenOrOdd; // evenOrOdd不加()
+      return this.$store.getters.evenOrOdd;
     }
   },
   methods: {
