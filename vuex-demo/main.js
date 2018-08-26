@@ -1,25 +1,16 @@
 import Vue from 'vue'
-import App from './App.vue'
-import store from "./vuex/store"
-import Count from "./components/Count"
-import HelloWorld from "./components/HelloWorld"
-import VueRouter from "vue-router"
+import store from './store'
+import App from './App'
+import router from './router'
 
-const router = new VueRouter({
-  routes: [{
-      path: "/",
-      component: HelloWorld
-    },
-    {
-      path: "/count",
-      component: Count
-    }
-  ]
-})
-Vue.use(VueRouter)
+Vue.config.productionTip = false
+
+/* eslint-disable no-new */
 new Vue({
-  router,
-  store,
   el: '#app',
-  render: h => h(App)
+  router,
+  store,//注册上vuex的store: 所有组件对象都多一个属性$store
+  components: { App },
+  template: '<App/>'
 })
+
