@@ -259,3 +259,5 @@ ps:如果想访问源代码，请猛戳[git地址](https://github.com/ljianshu/B
 [vuex官方文档](https://vuex.vuejs.org/zh/guide/)
 
 [Vuex 2.0 源码分析](http://www.imooc.com/article/14741)
+
+[Vuex框架原理与源码分析](https://tech.meituan.com/vuex_code_analysis.html)
