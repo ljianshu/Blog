@@ -23,6 +23,7 @@
 #### 4.[浅拷贝与深拷贝](https://github.com/ljianshu/Blog/blob/master/%E6%B5%85%E6%8B%B7%E8%B4%9D%E4%B8%8E%E6%B7%B1%E6%8B%B7%E8%B4%9D.md)
 #### 5.[闭包不过如此](https://github.com/ljianshu/Blog/blob/master/%E9%97%AD%E5%8C%85%E4%B8%8D%E8%BF%87%E5%A6%82%E6%AD%A4.md)
 #### 6.[this到底是谁](https://github.com/ljianshu/Blog/blob/master/this%E5%88%B0%E5%BA%95%E6%98%AF%E8%B0%81.md)
+#### 7.[JavaScript基础(一)----强制转换与自动转换](https://github.com/ljianshu/Blog/issues/1)
 ## ES6
 #### 1.[ES6核心特性(一)](https://github.com/ljianshu/Blog/blob/master/ES6%E6%A0%B8%E5%BF%83%E7%89%B9%E6%80%A7%EF%BC%88%E4%B8%80.md)
 #### 2.[ES6核心特性（二)](https://github.com/ljianshu/Blog/blob/master/ES6%E6%A0%B8%E5%BF%83%E7%89%B9%E6%80%A7%EF%BC%88%E4%BA%8C.md)
