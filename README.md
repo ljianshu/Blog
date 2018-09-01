@@ -13,8 +13,8 @@
 
 
 ## 页面性能优化
-#### 1.[页面性能优化办法有哪些](https://github.com/ljianshu/Blog/blob/master/%E9%A1%B5%E9%9D%A2%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E5%8A%9E%E6%B3%95%E6%9C%89%E5%93%AA%E4%BA%9B%3F.md)
-#### 2.[懒加载和预加载](https://github.com/ljianshu/Blog/blob/master/%E6%87%92%E5%8A%A0%E8%BD%BD%E5%92%8C%E9%A2%84%E5%8A%A0%E8%BD%BD.md)
+#### 1.[页面性能优化办法有哪些](https://github.com/ljianshu/Blog/issues/9)
+#### 2.[懒加载和预加载](https://github.com/ljianshu/Blog/issues/8)
 
 ## Javascript
 #### 1.[JavaScript运行机制](https://github.com/ljianshu/Blog/issues/2)
