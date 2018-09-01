@@ -17,12 +17,12 @@
 #### 2.[懒加载和预加载](https://github.com/ljianshu/Blog/blob/master/%E6%87%92%E5%8A%A0%E8%BD%BD%E5%92%8C%E9%A2%84%E5%8A%A0%E8%BD%BD.md)
 
 ## Javascript
-#### 1.[JavaScript运行机制](https://github.com/ljianshu/Blog/blob/master/JavaScript%E8%BF%90%E8%A1%8C%E6%9C%BA%E5%88%B6.md)
-#### 2.[JavaScript预解释是一种毫无节操的机制](https://github.com/ljianshu/Blog/blob/master/JavaScript%E9%A2%84%E8%A7%A3%E9%87%8A%E6%98%AF%E4%B8%80%E7%A7%8D%E6%AF%AB%E6%97%A0%E8%8A%82%E6%93%8D%E7%9A%84%E6%9C%BA%E5%88%B6.md)
-#### 3.[JavaScript中数据类型](https://github.com/ljianshu/Blog/blob/master/JavaScript%E4%B8%AD%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
-#### 4.[浅拷贝与深拷贝](https://github.com/ljianshu/Blog/blob/master/%E6%B5%85%E6%8B%B7%E8%B4%9D%E4%B8%8E%E6%B7%B1%E6%8B%B7%E8%B4%9D.md)
-#### 5.[闭包不过如此](https://github.com/ljianshu/Blog/blob/master/%E9%97%AD%E5%8C%85%E4%B8%8D%E8%BF%87%E5%A6%82%E6%AD%A4.md)
-#### 6.[this到底是谁](https://github.com/ljianshu/Blog/blob/master/this%E5%88%B0%E5%BA%95%E6%98%AF%E8%B0%81.md)
+#### 1.[JavaScript运行机制](https://github.com/ljianshu/Blog/issues/2)
+#### 2.[JavaScript预解释是一种毫无节操的机制](https://github.com/ljianshu/Blog/issues/3)
+#### 3.[JavaScript中数据类型](https://github.com/ljianshu/Blog/issues/4)
+#### 4.[浅拷贝与深拷贝](https://github.com/ljianshu/Blog/issues/5)
+#### 5.[闭包不过如此](https://github.com/ljianshu/Blog/issues/6)
+#### 6.[this到底是谁](https://github.com/ljianshu/Blog/issues/7)
 #### 7.[JavaScript基础(一)----强制转换与自动转换](https://github.com/ljianshu/Blog/issues/1)
 ## ES6
 #### 1.[ES6核心特性(一)](https://github.com/ljianshu/Blog/blob/master/ES6%E6%A0%B8%E5%BF%83%E7%89%B9%E6%80%A7%EF%BC%88%E4%B8%80.md)
