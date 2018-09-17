@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Layout</title>
+    <style media="screen">
+        html * {
+            padding: 0;
+            margin: 0;
+        }
+        .layout article div {
+            min-height: 150px;
+        }
+    </style>
+</head>
+<body>
+    <!--浮动布局  -->
+    <section class="layout float">
+        <style media="screen">
+            .layout.float .left {
+                float: left;
+                width: 300px;
+                background: red;
+            }
+
+            .layout.float .center {
+                background: yellow;
+            }
+
+            .layout.float .right {
+                float: right;
+                width: 300px;
+                background: blue;
+            }
+        </style>
+        <h1>三栏布局</h1>
+        <article class="left-right-center">
+            <div class="left"></div>
+            <div class="right"></div>
+            <div class="center">
+                <h2>浮动解决方案</h2>
+                1.这是三栏布局的浮动解决方案； 2.这是三栏布局的浮动解决方案； 3.这是三栏布局的浮动解决方案； 4.这是三栏布局的浮动解决方案； 5.这是三栏布局的浮动解决方案； 6.这是三栏布局的浮动解决方案；
+            </div>
+        </article>
+    </section>
+</body>
+</html>

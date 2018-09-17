@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Layout</title>
+    <style media="screen">
+        html * {
+            padding: 0;
+            margin: 0;
+        }
+
+        .layout article div {
+            min-height: 150px;
+        }
+    </style>
+</head>
+
+<body>
+    <!--网格布局-->
+    <section class="layout grid">
+        <style>
+            .layout.grid .left-center-right {
+                display: grid;
+                width: 100%;
+                grid-template-columns: 300px auto 300px;
+                grid-template-rows: 150px;
+            }
+            .layout.grid .left {
+                background: red;
+            }
+            .layout.grid .center {
+                background: yellow;
+            }
+            .layout.grid .right {
+                background: blue;
+            }
+        </style>
+        <h1>三栏布局</h1>
+        <article class="left-center-right">
+            <div class="left"></div>
+            <div class="center">
+                <h2>网格布局解决方案</h2>
+                1.这是三栏布局的浮动解决方案； 2.这是三栏布局的浮动解决方案； 3.这是三栏布局的浮动解决方案； 4.这是三栏布局的浮动解决方案； 5.这是三栏布局的浮动解决方案； 6.这是三栏布局的浮动解决方案；
+            </div>
+            <div class="right"></div>
+        </article>
+    </section>
+</body>
+
+</html>
