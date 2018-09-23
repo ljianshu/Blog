@@ -22,7 +22,7 @@
 #### 3.[JavaScript中数据类型](https://github.com/ljianshu/Blog/issues/4)
 #### 4.[浅拷贝与深拷贝](https://github.com/ljianshu/Blog/issues/5)
 #### 5.[闭包不过如此](https://github.com/ljianshu/Blog/issues/6)
-#### 6.[this到底是谁](https://github.com/ljianshu/Blog/issues/7)
+#### 6.[你还没搞懂this？](https://github.com/ljianshu/Blog/issues/7)
 #### 7.[JavaScript基础(一)----强制转换与自动转换](https://github.com/ljianshu/Blog/issues/1)
 ## ES6
 #### 1.[ES6核心特性(一)](https://github.com/ljianshu/Blog/blob/master/ES6%E6%A0%B8%E5%BF%83%E7%89%B9%E6%80%A7%EF%BC%88%E4%B8%80.md)
