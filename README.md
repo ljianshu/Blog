@@ -21,7 +21,7 @@
 #### 2.[JavaScript预解释是一种毫无节操的机制](https://github.com/ljianshu/Blog/issues/3)
 #### 3.[JavaScript中数据类型](https://github.com/ljianshu/Blog/issues/4)
 #### 4.[浅拷贝与深拷贝](https://github.com/ljianshu/Blog/issues/5)
-#### 5.[闭包不过如此](https://github.com/ljianshu/Blog/issues/6)
+#### 5.[深入浅出Javascript闭包](https://github.com/ljianshu/Blog/issues/6)
 #### 6.[你还没搞懂this？](https://github.com/ljianshu/Blog/issues/7)
 #### 7.[JavaScript基础(一)----强制转换与自动转换](https://github.com/ljianshu/Blog/issues/1)
 ## ES6
