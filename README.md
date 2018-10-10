@@ -19,7 +19,7 @@
 ## Javascript
 #### 1.[JavaScript运行机制](https://github.com/ljianshu/Blog/issues/2)
 #### 2.[JavaScript预解释是一种毫无节操的机制](https://github.com/ljianshu/Blog/issues/3)
-#### 3.[JavaScript中数据类型](https://github.com/ljianshu/Blog/issues/4)
+#### 3.[JavaScript的数据类型及其检测](https://github.com/ljianshu/Blog/issues/4)
 #### 4.[JavaScript创建对象几种形式 ](https://github.com/ljianshu/Blog/issues/17)
 #### 5.[浅拷贝与深拷贝](https://github.com/ljianshu/Blog/issues/5)
 #### 6.[深入浅出Javascript闭包](https://github.com/ljianshu/Blog/issues/6)
