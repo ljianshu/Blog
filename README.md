@@ -27,6 +27,7 @@
 #### 8.[原型与原型链详解](https://github.com/ljianshu/Blog/issues/18)
 #### 9.[JavaScript常见的六种继承方式](https://github.com/ljianshu/Blog/issues/20)
 #### 10.[JavaScript基础(一)----强制转换与自动转换](https://github.com/ljianshu/Blog/issues/1)
+#### 11.[JavaScript线程机制与事件机制](https://github.com/ljianshu/Blog/issues/11)
 ## ES6
 #### 1.[ES6核心特性(一)](https://github.com/ljianshu/Blog/issues/10)
 #### 2.[ES6核心特性（二)](https://github.com/ljianshu/Blog/issues/11)
