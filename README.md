@@ -35,7 +35,7 @@
 #### 4.[异步解决方案--Promise与Await](https://github.com/ljianshu/Blog/issues/13)
 ## CSS
 #### 1.[实现三栏布局的几种方法](https://github.com/ljianshu/Blog/issues/14)
-#### 2.[聊聊CSS中的BFC](https://github.com/ljianshu/Blog/issues/15)
+#### 2.[深入理解BFC](https://github.com/ljianshu/Blog/issues/15)
 #### 3.[如何清除浮动](https://github.com/ljianshu/Blog/issues/16)
 #### 4.[LESS即学即用](https://github.com/ljianshu/Blog/issues/19)
 #### 5.[如何居中一个元素（终结版)](https://github.com/ljianshu/Blog/issues/29)
