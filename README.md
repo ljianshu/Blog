@@ -21,7 +21,7 @@
 #### 2.[JavaScript预解释是一种毫无节操的机制](https://github.com/ljianshu/Blog/issues/3)
 #### 3.[JavaScript的数据类型及其检测](https://github.com/ljianshu/Blog/issues/4)
 #### 4.[JavaScript创建对象几种形式 ](https://github.com/ljianshu/Blog/issues/17)
-#### 5.[细说数组常用遍历的方法](https://github.com/ljianshu/Blog/issues/41)
+#### 5.[细说数组常用遍历的方法](https://github.com/ljianshu/Blog/issues/31)
 #### 6.[浅拷贝与深拷贝](https://github.com/ljianshu/Blog/issues/5)
 #### 7.[深入浅出Javascript闭包](https://github.com/ljianshu/Blog/issues/6)
 #### 8.[你还没搞懂this？](https://github.com/ljianshu/Blog/issues/7)
