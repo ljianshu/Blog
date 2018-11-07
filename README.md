@@ -10,7 +10,7 @@
 #### 4.[Vue2.0学习(四)--组件的继承与扩展](https://github.com/ljianshu/Blog/issues/35)
 
 #### 5.[从头开始学习Vuex](https://github.com/ljianshu/Blog/issues/36)
-
+#### 6.[从头开始学习vue-router](https://github.com/ljianshu/Blog/issues/39)
 
 ## 页面性能优化
 #### 1.[页面性能优化办法有哪些](https://github.com/ljianshu/Blog/issues/9)
