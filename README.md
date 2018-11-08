@@ -41,6 +41,7 @@
 #### 3.[如何清除浮动](https://github.com/ljianshu/Blog/issues/16)
 #### 4.[LESS即学即用](https://github.com/ljianshu/Blog/issues/19)
 #### 5.[如何居中一个元素（终结版)](https://github.com/ljianshu/Blog/issues/29)
+#### 6.[几种常见的CSS布局](https://github.com/ljianshu/Blog/issues/40)
 ## Http协议
 #### 1.[关于Http协议，你必须要知道的](https://github.com/ljianshu/Blog/issues/21)
 #### 2.[关于Http协议一些重要概念](https://github.com/ljianshu/Blog/issues/22)
