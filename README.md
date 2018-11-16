@@ -17,7 +17,7 @@
 #### 2.[懒加载和预加载](https://github.com/ljianshu/Blog/issues/8)
 
 ## Javascript
-#### 1.[JavaScript运行机制](https://github.com/ljianshu/Blog/issues/2)
+#### 1.[深入浅出JavaScript运行机制](https://github.com/ljianshu/Blog/issues/2)
 #### 2.[JavaScript预解释是一种毫无节操的机制](https://github.com/ljianshu/Blog/issues/3)
 #### 3.[JavaScript的数据类型及其检测](https://github.com/ljianshu/Blog/issues/4)
 #### 4.[JavaScript创建对象几种形式 ](https://github.com/ljianshu/Blog/issues/17)
