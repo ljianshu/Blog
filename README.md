@@ -35,6 +35,7 @@
 #### 2.[ES6核心特性（二)](https://github.com/ljianshu/Blog/issues/11)
 #### 3.[ES6数组的扩展----Array.from()和Array.of()](https://github.com/ljianshu/Blog/issues/12)
 #### 4.[异步解决方案--Promise与Await](https://github.com/ljianshu/Blog/issues/13)
+#### 5.[ES6迭代器和生成器](https://github.com/ljianshu/Blog/issues/42)
 ## CSS
 #### 1.[实现三栏布局的几种方法](https://github.com/ljianshu/Blog/issues/14)
 #### 2.[深入理解BFC](https://github.com/ljianshu/Blog/issues/15)
