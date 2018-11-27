@@ -31,11 +31,10 @@
 #### 12.[JavaScript数据类型转换](https://github.com/ljianshu/Blog/issues/1)
 #### 13.[JavaScript线程机制与事件机制](https://github.com/ljianshu/Blog/issues/28)
 ## ES6
-#### 1.[ES6核心特性(一)](https://github.com/ljianshu/Blog/issues/10)
-#### 2.[ES6核心特性（二)](https://github.com/ljianshu/Blog/issues/11)
-#### 3.[ES6数组的扩展----Array.from()和Array.of()](https://github.com/ljianshu/Blog/issues/12)
-#### 4.[异步解决方案--Promise与Await](https://github.com/ljianshu/Blog/issues/13)
-#### 5.[ES6迭代器和生成器](https://github.com/ljianshu/Blog/issues/42)
+#### 1.[ES6核心特性](https://github.com/ljianshu/Blog/issues/10)
+#### 2.[ES6数组的扩展----Array.from()和Array.of()](https://github.com/ljianshu/Blog/issues/12)
+#### 3.[异步解决方案--Promise与Await](https://github.com/ljianshu/Blog/issues/13)
+#### 4.[ES6迭代器和生成器](https://github.com/ljianshu/Blog/issues/42)
 ## CSS
 #### 1.[实现三栏布局的几种方法](https://github.com/ljianshu/Blog/issues/14)
 #### 2.[深入理解BFC](https://github.com/ljianshu/Blog/issues/15)
