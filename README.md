@@ -15,6 +15,7 @@
 ## 页面性能优化
 #### 1.[页面性能优化办法有哪些](https://github.com/ljianshu/Blog/issues/9)
 #### 2.[懒加载和预加载](https://github.com/ljianshu/Blog/issues/8)
+#### 3.[函数节流和防抖](https://github.com/ljianshu/Blog/issues/43)
 
 ## Javascript
 #### 1.[深入浅出JavaScript运行机制](https://github.com/ljianshu/Blog/issues/2)
