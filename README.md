@@ -1,8 +1,10 @@
 # 博客目录
 从某种意义上说，博客是我最好的学习笔记和个人名片，也为此倾注了大量的时间和心血，如果获得点赞誉，只因我更舍得花时间投入其中！我也一直坚信输出是最好学习方法，如果文章给大家些许帮助和启发，麻烦点个赞！我会更加再接再厉，写出更好的作品，回馈给大家！
+
 [掘金博客(全集)](https://juejin.im/user/5a9a9cdcf265da238b7d771c)
 
 [segmentFault博客(精华)](https://segmentfault.com/u/langlixingzhou/articles)
+
 **文章有错误或不当之处，烦请指出！一年六十篇高质量原创的博文，一直在努力! 持续更新中...**  
 ## Vue全家桶
 #### 1.[Vue2.0学习(一)--父子组件间通信](https://github.com/ljianshu/Blog/issues/32)
