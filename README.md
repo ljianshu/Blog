@@ -36,7 +36,7 @@
 #### 13.[JavaScript线程机制与事件机制](https://github.com/ljianshu/Blog/issues/28)
 ## ES6
 #### 1.[ES6核心特性](https://github.com/ljianshu/Blog/issues/10)
-#### 2.[ES6数组的扩展----Array.from()和Array.of()](https://github.com/ljianshu/Blog/issues/12)
+#### 2.[ES6数组的扩展--Array.from()和Array.of()](https://github.com/ljianshu/Blog/issues/12)
 #### 3.[异步解决方案--Promise与Await](https://github.com/ljianshu/Blog/issues/13)
 #### 4.[ES6迭代器和生成器](https://github.com/ljianshu/Blog/issues/42)
 ## CSS
