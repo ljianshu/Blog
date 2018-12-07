@@ -5,7 +5,7 @@
 
 [segmentFault博客(精华)](https://segmentfault.com/u/langlixingzhou/articles)
 
-**文章有错误或不当之处，烦请指出！一年六十篇高质量原创的博文，一直在努力! 持续更新中...**  
+**文章有错误或不当之处，烦请指出！每周一篇篇高质量原创的博文，一直在努力! 持续更新中...**  
 ## Vue全家桶
 #### 1.[Vue2.0学习(一)--父子组件间通信](https://github.com/ljianshu/Blog/issues/32)
 #### 2.[Vue2.0学习(二)--自定义指令与实例的属性和方法](https://github.com/ljianshu/Blog/issues/33)
