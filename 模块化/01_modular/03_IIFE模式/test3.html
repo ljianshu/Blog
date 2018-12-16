@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>03_IIFE模式</title>
+  </head>
+  <body>
+    <script type="text/javascript" src="module3.js"></script>
+    <script type="text/javascript">
+      myModule.foo()
+      myModule.bar()
+      console.log(myModule.data) //undefined 不能访问模块内部数据
+      myModule.data = 'xxxx' //不是修改的模块内部的data
+      myModule.foo() //没有改变
+    </script>
+  </body>
+</html>
