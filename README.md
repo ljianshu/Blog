@@ -53,6 +53,7 @@
 #### 3.[深入理解浏览器的缓存机制](https://github.com/ljianshu/Blog/issues/23)
 ## 后台数据请求
 #### 1.[Ajax原理一篇就够了](https://github.com/ljianshu/Blog/issues/45)
+#### 2.[Ajax请求后台数据](https://github.com/ljianshu/Blog/issues/46)
 ## 浏览器相关
 #### 1.[从URL输入到页面展现到底发生什么？](https://github.com/ljianshu/Blog/issues/24)
 #### 2.[浏览器存储](https://github.com/ljianshu/Blog/issues/25)
