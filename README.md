@@ -35,6 +35,7 @@
 #### 12.[JavaScript常见的六种继承方式](https://github.com/ljianshu/Blog/issues/20)
 #### 13.[JavaScript数据类型转换](https://github.com/ljianshu/Blog/issues/1)
 #### 14.[JavaScript线程机制与事件机制](https://github.com/ljianshu/Blog/issues/28)
+#### 15.[前端模块化详解(完整版)](https://github.com/ljianshu/Blog/issues/48)
 ## ES6
 #### 1.[ES6核心特性](https://github.com/ljianshu/Blog/issues/10)
 #### 2.[ES6数组的扩展--Array.from()和Array.of()](https://github.com/ljianshu/Blog/issues/12)
