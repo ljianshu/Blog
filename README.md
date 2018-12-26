@@ -13,7 +13,7 @@
 #### 2.[从头开始学习vue-router](https://github.com/ljianshu/Blog/issues/39)
 #### 3.[Vue2.0父子组件间通信](https://github.com/ljianshu/Blog/issues/32)
 #### 4.[Vue2.0自定义指令与实例的属性和方法](https://github.com/ljianshu/Blog/issues/33)
-#### 5.[Vue2.0Vue数据通信详解](https://github.com/ljianshu/Blog/issues/34)
+#### 5.[Vue2.0数据通信详解](https://github.com/ljianshu/Blog/issues/34)
 #### 6.[Vue2.0组件的继承与扩展](https://github.com/ljianshu/Blog/issues/35)
 
 ## 页面性能优化
