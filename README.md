@@ -1,20 +1,21 @@
 # 博客目录
 **从某种意义上说，博客是我最好的学习笔记和个人名片**，事实上，理解一件事并不难，难的是如何将一件事通俗分享给别人，并让别人也有所收获，一直以来我也是这样要求自己！如果文章给大家些许帮助和启发，麻烦点个赞！我会再接再厉，写出更好的作品，回馈给大家！
-
-
 - [掘金博客(全集)](https://juejin.im/user/5a9a9cdcf265da238b7d771c)
 
 - [segmentFault博客(精华)](https://segmentfault.com/u/langlixingzhou/articles)
 
+ **欢迎志同道合的同学加入微信群，一起交流成长！**
+ 
+![](https://user-gold-cdn.xitu.io/2018/12/26/167eaedf9e0986d3?w=217&h=289&f=png&s=23884)
+
 **文章有错误或不当之处，烦请指出！每周一篇高质量原创的博文，一直在努力! 持续更新中...**  
 ## Vue全家桶
-#### 1.[Vue2.0学习(一)--父子组件间通信](https://github.com/ljianshu/Blog/issues/32)
-#### 2.[Vue2.0学习(二)--自定义指令与实例的属性和方法](https://github.com/ljianshu/Blog/issues/33)
-#### 3.[Vue2.0学习(三)--Vue数据通信详解](https://github.com/ljianshu/Blog/issues/34)
-#### 4.[Vue2.0学习(四)--组件的继承与扩展](https://github.com/ljianshu/Blog/issues/35)
-
-#### 5.[从头开始学习Vuex](https://github.com/ljianshu/Blog/issues/36)
-#### 6.[从头开始学习vue-router](https://github.com/ljianshu/Blog/issues/39)
+#### 1.[从头开始学习Vuex](https://github.com/ljianshu/Blog/issues/36)
+#### 2.[从头开始学习vue-router](https://github.com/ljianshu/Blog/issues/39)
+#### 3.[Vue2.0父子组件间通信](https://github.com/ljianshu/Blog/issues/32)
+#### 4.[Vue2.0自定义指令与实例的属性和方法](https://github.com/ljianshu/Blog/issues/33)
+#### 5.[Vue2.0Vue数据通信详解](https://github.com/ljianshu/Blog/issues/34)
+#### 6.[Vue2.0组件的继承与扩展](https://github.com/ljianshu/Blog/issues/35)
 
 ## 页面性能优化
 #### 1.[页面性能优化办法有哪些](https://github.com/ljianshu/Blog/issues/9)
