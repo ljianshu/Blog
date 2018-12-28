@@ -53,6 +53,7 @@
 #### 1.[关于Http协议，你必须要知道的](https://github.com/ljianshu/Blog/issues/21)
 #### 2.[关于Http协议一些重要概念](https://github.com/ljianshu/Blog/issues/22)
 #### 3.[深入理解浏览器的缓存机制](https://github.com/ljianshu/Blog/issues/23)
+#### 4.[深入浅出HTTPS工作原理](https://github.com/ljianshu/Blog/issues/50)
 ## 后台数据请求
 #### 1.[Ajax原理一篇就够了](https://github.com/ljianshu/Blog/issues/45)
 #### 2.[Ajax请求后台数据](https://github.com/ljianshu/Blog/issues/46)
