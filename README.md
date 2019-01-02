@@ -6,7 +6,7 @@
 
  **欢迎志同道合的同学加入微信群，一起交流成长！**
  
-![](https://user-gold-cdn.xitu.io/2018/12/26/167eaedf9e0986d3?w=217&h=289&f=png&s=23884)
+![](https://user-gold-cdn.xitu.io/2019/1/2/1680bfe887f54729?w=228&h=309&f=png&s=32970)
 
 ## Vue全家桶
 #### 1.[从头开始学习Vuex](https://github.com/ljianshu/Blog/issues/36)
