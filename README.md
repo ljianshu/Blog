@@ -62,7 +62,7 @@
 #### 1.[从URL输入到页面展现到底发生什么？](https://github.com/ljianshu/Blog/issues/24)
 #### 2.[浏览器存储](https://github.com/ljianshu/Blog/issues/25)
 #### 3.[深入浅出浏览器渲染原理](https://github.com/ljianshu/Blog/issues/51)
-#### 4.[浅聊常见浏览器的兼容性问题](https://github.com/ljianshu/Blog/issues/27)
+
 ## 移动端
 #### 1.[关于响应式布局，你必须要知道的](https://github.com/ljianshu/Blog/issues/38)
 
