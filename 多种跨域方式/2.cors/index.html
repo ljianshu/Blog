@@ -9,7 +9,7 @@
   <body>
     <script>
       let xhr = new XMLHttpRequest()
-      document.cookie = 'name=xiamen'
+      document.cookie = 'name=xiamen'// cookie不能跨域
       xhr.withCredentials = true // 前端设置是否带cookie
       xhr.open('PUT', 'http://localhost:4000/getData', true)
       xhr.setRequestHeader('name', 'xiamen')
