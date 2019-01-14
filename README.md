@@ -4,7 +4,7 @@
 
 - [segmentFault博客(精华)](https://segmentfault.com/u/langlixingzhou/articles)
 
- **欢迎志同道合的同学加入微信群，一起交流成长！人数已经超过100人了，二维码失效了，不妨先加我微信：renxinsidong**
+ **欢迎志同道合的同学加入微信群，一起交流成长！人数已经超过100人了，二维码失效了，不妨先加我微信：qqlcx55**
  
 ![](https://user-gold-cdn.xitu.io/2019/1/2/1680bfe887f54729?w=228&h=309&f=png&s=32970)
 
