@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Node中间件代理</title>
+  </head>
+
+  <body>
+    <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>
+    <script>
+      $.ajax({
+        url: 'http://localhost:3000',
+        type: 'post',
+        data: { name: 'xiamen', password: '123456' },
+        contentType: 'application/json;charset=utf-8',
+        success: function(result) {
+          console.log('result', result)
+        },
+        error: function(msg) {
+          console.log(msg)
+        }
+      })
+    </script>
+  </body>
+</html>
