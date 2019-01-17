@@ -8,17 +8,12 @@
 </head>
 <body>
   <script>
-    let xhr = new XMLHttpRequest;
-    xhr.open('get','http://localhost/a.json',true);
-    xhr.onreadystatechange = function () {
-      if(xhr.readyState === 4){
-        if(xhr.status>=200 && xhr.status < 300 || xhr.status ===304){
-          console.log(xhr.response);
-          console.log(xhr.getResponseHeader('name'));
-        }
-      }
-    }
-    xhr.send();
+   var xhr = new XMLHttpRequest();
+   // 前端开关：浏览器是否读写cookie
+   xhr.withCredentials = true;
+   // 访问nginx中的代理服务器
+   xhr.open('get', 'http://www.domain1.com:81/?user=admin', true);
+   xhr.send();  
   </script>
 </body>
 </html>
