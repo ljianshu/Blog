@@ -52,8 +52,8 @@
 #### 5.[如何居中一个元素（终结版)](https://github.com/ljianshu/Blog/issues/29)
 #### 6.[几种常见的CSS布局](https://github.com/ljianshu/Blog/issues/40)
 ## Http协议
-#### 1.[关于Http协议，你必须要知道的](https://github.com/ljianshu/Blog/issues/21)
-#### 2.[关于Http协议一些重要概念](https://github.com/ljianshu/Blog/issues/22)
+#### 1.[关于Http协议，你必须要知道的](https://github.com/ljianshu/Blog/issues/22)
+#### 2.[关于Http协议一些重要概念](https://github.com/ljianshu/Blog/issues/21)
 #### 3.[深入浅出HTTPS工作原理](https://github.com/ljianshu/Blog/issues/50)
 ## 后台数据请求
 #### 1.[Ajax原理一篇就够了](https://github.com/ljianshu/Blog/issues/45)
