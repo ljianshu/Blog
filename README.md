@@ -51,14 +51,13 @@
 #### 4.[LESS即学即用](https://github.com/ljianshu/Blog/issues/19)
 #### 5.[如何居中一个元素（终结版)](https://github.com/ljianshu/Blog/issues/29)
 #### 6.[几种常见的CSS布局](https://github.com/ljianshu/Blog/issues/40)
-## Http协议
+## Http协议与数据请求
 #### 1.[关于Http协议，你必须要知道的](https://github.com/ljianshu/Blog/issues/22)
 #### 2.[关于Http协议一些重要概念](https://github.com/ljianshu/Blog/issues/21)
 #### 3.[深入浅出HTTPS工作原理](https://github.com/ljianshu/Blog/issues/50)
-## 后台数据请求
-#### 1.[Ajax原理一篇就够了](https://github.com/ljianshu/Blog/issues/45)
-#### 2.[Ajax请求后台数据](https://github.com/ljianshu/Blog/issues/46)
-#### 3.[fetch 如何请求数据](https://github.com/ljianshu/Blog/issues/47)
+#### 4.[Ajax原理一篇就够了](https://github.com/ljianshu/Blog/issues/45)
+#### 5.[Ajax请求后台数据](https://github.com/ljianshu/Blog/issues/46)
+#### 6.[fetch 如何请求数据](https://github.com/ljianshu/Blog/issues/47)
 ## 浏览器相关
 #### 1.[从URL输入到页面展现到底发生什么？](https://github.com/ljianshu/Blog/issues/24)
 #### 2.[浏览器存储](https://github.com/ljianshu/Blog/issues/25)
