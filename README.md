@@ -51,6 +51,7 @@
 #### 4.[LESS即学即用](https://github.com/ljianshu/Blog/issues/19)
 #### 5.[如何居中一个元素（终结版)](https://github.com/ljianshu/Blog/issues/29)
 #### 6.[几种常见的CSS布局](https://github.com/ljianshu/Blog/issues/40)
+#### 7.[关于响应式布局，你必须要知道的](https://github.com/ljianshu/Blog/issues/38)
 ## Http协议与数据请求
 #### 1.[关于Http协议，你必须要知道的](https://github.com/ljianshu/Blog/issues/22)
 #### 2.[关于Http协议一些重要概念](https://github.com/ljianshu/Blog/issues/21)
@@ -64,13 +65,12 @@
 #### 3.[深入浅出浏览器渲染原理](https://github.com/ljianshu/Blog/issues/51)
 #### 4.[深入理解浏览器的缓存机制](https://github.com/ljianshu/Blog/issues/23)
 
-## 移动端
-#### 1.[关于响应式布局，你必须要知道的](https://github.com/ljianshu/Blog/issues/38)
+## 工具
+#### 1.[如何在线预览 GitHub 项目](https://github.com/ljianshu/Blog/issues/52)
 
 ## 实战
 #### 1.[vue全家桶制作一个精致的美团项目](https://github.com/ljianshu/Blog/issues/37)
-## 工具
-#### 1.[如何在线预览 GitHub 项目](https://github.com/ljianshu/Blog/issues/52)
+
 ## 赞助
 为什么要赞助？一篇好文章可以帮助你节省大量的时间，而你的时间是相当宝贵的。 向文章的作者提供小额赞助，我会有更大的创作动力!这是一种良性循环，现在就行动吧！ 鼓励留言，让我认识你。
 
