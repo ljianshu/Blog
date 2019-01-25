@@ -31,7 +31,7 @@
 #### 7.[深入浅出Javascript闭包](https://github.com/ljianshu/Blog/issues/6)
 #### 8.[你还没搞懂this？](https://github.com/ljianshu/Blog/issues/7)
 #### 9.[原型与原型链详解](https://github.com/ljianshu/Blog/issues/18)
-#### 10.[跨域几种方式](https://github.com/ljianshu/Blog/issues/30)
+#### 10.[九种跨域方式实现原理（完整版）](https://github.com/ljianshu/Blog/issues/55)
 #### 11.[Dom事件机制](https://github.com/ljianshu/Blog/issues/44)
 #### 12.[JavaScript常见的六种继承方式](https://github.com/ljianshu/Blog/issues/20)
 #### 13.[JavaScript数据类型转换](https://github.com/ljianshu/Blog/issues/1)
