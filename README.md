@@ -3,11 +3,9 @@
 - [掘金博客(全集)](https://juejin.im/user/5a9a9cdcf265da238b7d771c)
 
 - [segmentFault博客(精华)](https://segmentfault.com/u/langlixingzhou/articles)
-
- **欢迎志同道合的同学加入微信群，一起交流成长！人数已经超过100人了，二维码失效了，不妨先加我微信：frontEndEngineer**
+- 我的公众号：前端工匠
+- 欢迎志同道合的朋友加入微信群，人数已经超过100人了，二维码失效了，不妨先加我微信：frontEndEngineer
  
-![](https://user-gold-cdn.xitu.io/2019/1/2/1680bfe887f54729?w=228&h=309&f=png&s=32970)
-
 ## Vue全家桶
 #### 1.[从头开始学习Vuex](https://github.com/ljianshu/Blog/issues/36)
 #### 2.[从头开始学习vue-router](https://github.com/ljianshu/Blog/issues/39)
