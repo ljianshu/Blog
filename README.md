@@ -3,7 +3,7 @@
 - [掘金博客(全集)](https://juejin.im/user/5a9a9cdcf265da238b7d771c)
 
 - [segmentFault博客(精华)](https://segmentfault.com/u/langlixingzhou/articles)
-- 我的公众号：前端工匠
+- **我的公众号：前端工匠**
 - 欢迎志同道合的朋友加入微信群，人数已经超过100人了，二维码失效了，不妨先加我微信：frontEndEngineer
  
 ## Vue全家桶
