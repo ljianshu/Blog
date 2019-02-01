@@ -71,5 +71,5 @@
 ## 实战
 #### 1.[vue全家桶制作一个精致的美团项目](https://github.com/ljianshu/Blog/issues/37)
 ## 交流
-
+欢迎关注公众号：前端工匠，我们一同成长！
 ![](https://user-gold-cdn.xitu.io/2019/2/1/168a99a4ad6a32b3?w=2800&h=800&f=jpeg&s=175859)
