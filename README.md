@@ -13,7 +13,7 @@
 #### 4.[Vue2.0自定义指令与实例的属性和方法](https://github.com/ljianshu/Blog/issues/33)
 #### 5.[Vue2.0数据通信详解](https://github.com/ljianshu/Blog/issues/34)
 #### 6.[Vue2.0组件的继承与扩展](https://github.com/ljianshu/Blog/issues/35)
-#### *[] Vue3.0新特性
+* [ ] Vue3.0新特性
 
 ## 页面性能优化
 #### 1.[页面性能优化办法有哪些](https://github.com/ljianshu/Blog/issues/9)
