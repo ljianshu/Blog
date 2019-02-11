@@ -1,6 +1,5 @@
 # 博客目录
-**从某种意义上说，博客是我最好的学习笔记和个人名片**，事实上，理解一件事并不难，难的是如何将一件事通俗分享给别人，并让别人也有所收获，一直以来我也是这样要求自己！如果文章给大家些许帮助和启发，麻烦点个赞！建议watch，因为这边是最完整的且是第一时间更新的。文章有错误或不当之处，烦请指出！**每周一篇高质量原创的博文，一直在努力!**  
-- **我的公众号：前端工匠**
+努力打造一系列适合初学者能够看得懂的优质文章，今年博客侧重于react、node和webpack等入门与底层原理分析，如果想第一时间获取文章，欢迎关注**我的公众号：前端工匠，每周至少一篇高质量原创的博文，带你入门!**  
 - [掘金博客(全集)](https://juejin.im/user/5a9a9cdcf265da238b7d771c)
 
 - [segmentFault博客(精华)](https://segmentfault.com/u/langlixingzhou/articles)
@@ -14,6 +13,7 @@
 #### 4.[Vue2.0自定义指令与实例的属性和方法](https://github.com/ljianshu/Blog/issues/33)
 #### 5.[Vue2.0数据通信详解](https://github.com/ljianshu/Blog/issues/34)
 #### 6.[Vue2.0组件的继承与扩展](https://github.com/ljianshu/Blog/issues/35)
+#### * [] Vue3.0新特性
 
 ## 页面性能优化
 #### 1.[页面性能优化办法有哪些](https://github.com/ljianshu/Blog/issues/9)
