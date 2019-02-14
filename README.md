@@ -66,7 +66,10 @@
 #### 1.[常见六大Web安全攻防解析](https://github.com/ljianshu/Blog/issues/56)
 ## 工具
 #### 1.[如何在线预览 GitHub 项目](https://github.com/ljianshu/Blog/issues/52)
+## 实战
+#### 1.[vue全家桶制作一个精致的美团项目](https://github.com/ljianshu/Blog/issues/37)
 ## 2019年写作计划
+- vue系列
 - react系列
 - node系列
 - 调用堆栈
@@ -90,8 +93,7 @@
 - Diff算法
 - Virtual Dom原理
 - 前端数据结构与算法
-## 实战
-#### 1.[vue全家桶制作一个精致的美团项目](https://github.com/ljianshu/Blog/issues/37)
+
 ## 交流
 欢迎关注公众号：前端工匠，你的成长我们一起见证！
 ![](https://user-gold-cdn.xitu.io/2019/2/1/168a9c0bbdf4457f?w=2800&h=800&f=jpeg&s=151088)
