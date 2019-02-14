@@ -66,7 +66,30 @@
 #### 1.[常见六大Web安全攻防解析](https://github.com/ljianshu/Blog/issues/56)
 ## 工具
 #### 1.[如何在线预览 GitHub 项目](https://github.com/ljianshu/Blog/issues/52)
-
+## 2019年写作计划
+- react系列
+- node系列
+- 调用堆栈
+- 原型与原型链
+- bind、call、apply的实现原理
+- 高阶函数
+- JavaScript设计模式
+- Promise原理及手写Promise
+- webpack配置
+- webpack原理
+- 计算机网络概述
+- TCP/UDP协议
+- http2协议
+- websocket
+- 前端监控
+- 性能优化
+- 骨架屏实现
+- Vue3.0新特性
+- vue与react对比
+- MVVM框架实现原理
+- Diff算法
+- Virtual Dom原理
+- 前端数据结构与算法
 ## 实战
 #### 1.[vue全家桶制作一个精致的美团项目](https://github.com/ljianshu/Blog/issues/37)
 ## 交流
