@@ -4,7 +4,7 @@
 
 - [segmentFault博客(精华)](https://segmentfault.com/u/langlixingzhou/articles)
 
-- 欢迎志同道合的朋友加入微信群，进入前端工匠公众号==〉点击进群交流，跟诸多一线大厂的大佬一起交流
+- 欢迎志同道合的朋友加入微信群，跟诸多一线大厂的大佬一起交流，进入前端工匠公众号==〉点击进群交流，我拉你入群
  
 ## Vue全家桶
 #### 1.[从头开始学习Vuex](https://github.com/ljianshu/Blog/issues/36)
