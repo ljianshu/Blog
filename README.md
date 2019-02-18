@@ -68,7 +68,8 @@
 #### 1.[如何在线预览 GitHub 项目](https://github.com/ljianshu/Blog/issues/52)
 ## 实战
 #### 1.[vue全家桶制作一个精致的美团项目](https://github.com/ljianshu/Blog/issues/37)
-## 2019年写作计划
+## 2019年写作计划(暂定)
+今年除了对觉得不满意的以往文章进行迭代，还打算至少写50篇原创高质量文章，目前预计会涉及到以下主题：
 - vue深入系列
 - react入门系列
 - node入门系列
@@ -82,7 +83,7 @@
 - Promise原理及手写Promise
 - 计算机网络概述
 - TCP/UDP协议
-- http2协议
+- http2/http3协议
 - websocket
 - 前端监控
 - 性能优化
