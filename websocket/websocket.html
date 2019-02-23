@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>websocket</title>
+  </head>
+  <body>
+    <div id="clock"></div>
+    <script>
+      let clockDiv = document.getElementById('clock')
+      let socket = new WebSocket('ws://localhost:9999')
+      //当连接成功之后就会执行回调函数
+      socket.onopen = function() {
+        console.log('客户端连接成功')
+        //再向服务 器发送一个消息
+        socket.send('hello') //客户端发的消息内容 为hello
+      }
+      //绑定事件是用加属性的方式
+      socket.onmessage = function(event) {
+        clockDiv.innerHTML = event.data
+        console.log('收到服务器端的响应', event.data)
+      }
+    </script>
+  </body>
+</html>

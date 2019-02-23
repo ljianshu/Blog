@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div id="clock"></div>
+    <script>
+      let clockDiv = document.getElementById('clock')
+      function send() {
+        let xhr = new XMLHttpRequest()
+        xhr.open('GET', '/clock', true)
+        xhr.timeout = 2000 // 超时时间，单位是毫秒
+        xhr.onreadystatechange = function() {
+          if (xhr.readyState == 4) {
+            if (xhr.status == 200) {
+              //如果返回成功了，则显示结果
+              clockDiv.innerHTML = xhr.responseText
+            }
+            //不管成功还是失败都会发下一次请求
+            send()
+          }
+        }
+        xhr.ontimeout = function() {
+          send()
+        }
+        xhr.send()
+      }
+      send()
+    </script>
+  </body>
+</html>
