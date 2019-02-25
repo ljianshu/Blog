@@ -82,9 +82,8 @@
 - JavaScript设计模式
 - Promise原理及手写Promise
 - 计算机网络概述
-- TCP/UDP协议
 - http2/http3协议
-- websocket
+- websocket搭建聊天室
 - 前端监控
 - 性能优化
 - 骨架屏实现
