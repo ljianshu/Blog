@@ -9,9 +9,9 @@
 ## Vue全家桶
 #### 1.[从头开始学习Vuex](https://github.com/ljianshu/Blog/issues/36)
 #### 2.[从头开始学习vue-router](https://github.com/ljianshu/Blog/issues/39)
-#### 3.[Vue2.0父子组件间通信](https://github.com/ljianshu/Blog/issues/32)
-#### 4.[Vue2.0自定义指令与实例的属性和方法](https://github.com/ljianshu/Blog/issues/33)
-#### 5.[Vue2.0数据通信详解](https://github.com/ljianshu/Blog/issues/34)
+#### 3.[Vue2.0数据通信详解](https://github.com/ljianshu/Blog/issues/34)
+#### 4.[Vue2.0父子组件间通信](https://github.com/ljianshu/Blog/issues/32)
+#### 5.[Vue2.0自定义指令与实例的属性和方法](https://github.com/ljianshu/Blog/issues/33)
 #### 6.[Vue2.0组件的继承与扩展](https://github.com/ljianshu/Blog/issues/35)
 ## 浏览器相关
 #### 1.[深入浅出浏览器渲染原理](https://github.com/ljianshu/Blog/issues/51)
@@ -80,7 +80,6 @@
 - JavaScript设计模式
 - Promise原理及手写Promise
 - 计算机网络概述
-- http2/http3协议
 - websocket搭建聊天室
 - 前端监控
 - 性能优化
