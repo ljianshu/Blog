@@ -13,12 +13,11 @@
 #### 4.[Vue2.0自定义指令与实例的属性和方法](https://github.com/ljianshu/Blog/issues/33)
 #### 5.[Vue2.0数据通信详解](https://github.com/ljianshu/Blog/issues/34)
 #### 6.[Vue2.0组件的继承与扩展](https://github.com/ljianshu/Blog/issues/35)
-
-## 页面性能优化
-#### 1.[页面性能优化办法有哪些](https://github.com/ljianshu/Blog/issues/9)
-#### 2.[懒加载和预加载](https://github.com/ljianshu/Blog/issues/8)
-#### 3.[函数节流和防抖](https://github.com/ljianshu/Blog/issues/43)
-
+## 浏览器相关
+#### 1.[深入浅出浏览器渲染原理](https://github.com/ljianshu/Blog/issues/51)
+#### 2.[深入理解浏览器的缓存机制](https://github.com/ljianshu/Blog/issues/23)
+#### 3.[从URL输入到页面展现到底发生什么？](https://github.com/ljianshu/Blog/issues/24)
+#### 4.[浏览器存储](https://github.com/ljianshu/Blog/issues/25)
 ## Javascript
 #### 1.[深入浅出JavaScript运行机制](https://github.com/ljianshu/Blog/issues/2)
 #### 2.[JavaScript预解释是一种毫无节操的机制](https://github.com/ljianshu/Blog/issues/3)
@@ -57,11 +56,10 @@
 #### 4.[Ajax原理一篇就够了](https://github.com/ljianshu/Blog/issues/45)
 #### 5.[Ajax请求后台数据](https://github.com/ljianshu/Blog/issues/46)
 #### 6.[fetch 如何请求数据](https://github.com/ljianshu/Blog/issues/47)
-## 浏览器相关
-#### 1.[从URL输入到页面展现到底发生什么？](https://github.com/ljianshu/Blog/issues/24)
-#### 2.[浏览器存储](https://github.com/ljianshu/Blog/issues/25)
-#### 3.[深入浅出浏览器渲染原理](https://github.com/ljianshu/Blog/issues/51)
-#### 4.[深入理解浏览器的缓存机制](https://github.com/ljianshu/Blog/issues/23)
+## 页面性能优化
+#### 1.[页面性能优化办法有哪些](https://github.com/ljianshu/Blog/issues/9)
+#### 2.[懒加载和预加载](https://github.com/ljianshu/Blog/issues/8)
+#### 3.[函数节流和防抖](https://github.com/ljianshu/Blog/issues/43)
 ## web安全
 #### 1.[常见六大Web安全攻防解析](https://github.com/ljianshu/Blog/issues/56)
 ## 工具
