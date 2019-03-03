@@ -94,4 +94,4 @@
 欢迎关注公众号：前端工匠，你的成长我们一起见证！
 ![](https://user-gold-cdn.xitu.io/2019/2/1/168a9c0bbdf4457f?w=2800&h=800&f=jpeg&s=151088)
 如果你感觉有收获，欢迎给我打赏 ———— 以激励我更多输出优质开源内容
-![](https://user-gold-cdn.xitu.io/2019/3/4/169444913be7a66b?w=1152&h=1152&f=png&s=159787)
+![](https://user-gold-cdn.xitu.io/2019/3/4/169444a888cbb178?w=217&h=218&f=png&s=15815)
