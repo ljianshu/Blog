@@ -51,11 +51,10 @@
 #### 7.[关于响应式布局，你必须要知道的](https://github.com/ljianshu/Blog/issues/38)
 ## Http协议与数据请求
 #### 1.[关于Http协议，你必须要知道的](https://github.com/ljianshu/Blog/issues/22)
-#### 2.[关于Http协议一些重要概念](https://github.com/ljianshu/Blog/issues/21)
-#### 3.[深入浅出HTTPS工作原理](https://github.com/ljianshu/Blog/issues/50)
-#### 4.[Ajax原理一篇就够了](https://github.com/ljianshu/Blog/issues/45)
-#### 5.[Ajax请求后台数据](https://github.com/ljianshu/Blog/issues/46)
-#### 6.[fetch 如何请求数据](https://github.com/ljianshu/Blog/issues/47)
+#### 2.[深入浅出HTTPS工作原理](https://github.com/ljianshu/Blog/issues/50)
+#### 3.[Ajax原理一篇就够了](https://github.com/ljianshu/Blog/issues/45)
+#### 4.[Ajax请求后台数据](https://github.com/ljianshu/Blog/issues/46)
+#### 5.[fetch 如何请求数据](https://github.com/ljianshu/Blog/issues/47)
 ## 页面性能优化
 #### 1.[页面性能优化办法有哪些](https://github.com/ljianshu/Blog/issues/9)
 #### 2.[懒加载和预加载](https://github.com/ljianshu/Blog/issues/8)
