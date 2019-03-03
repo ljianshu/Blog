@@ -6,7 +6,7 @@
 
 - 欢迎志同道合的朋友加入微信群，跟诸多一线大厂的大佬一起交流，进入前端工匠公众号==〉点击进群交流，我拉你入群
  
-### |Vue全家桶
+### |  Vue全家桶
 #### 1.[从头开始学习Vuex](https://github.com/ljianshu/Blog/issues/36)
 #### 2.[从头开始学习vue-router](https://github.com/ljianshu/Blog/issues/39)
 #### 3.[Vue2.0数据通信详解](https://github.com/ljianshu/Blog/issues/34)
