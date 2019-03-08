@@ -19,21 +19,20 @@
 #### 3.[从URL输入到页面展现到底发生什么？](https://github.com/ljianshu/Blog/issues/24)
 #### 4.[浏览器存储](https://github.com/ljianshu/Blog/issues/25)
 ### |  Javascript
-#### 1.[深入浅出JavaScript运行机制](https://github.com/ljianshu/Blog/issues/2)
-#### 2.[JavaScript预解释是一种毫无节操的机制](https://github.com/ljianshu/Blog/issues/3)
+#### 1.[前端模块化详解(完整版)](https://github.com/ljianshu/Blog/issues/48)
+#### 2.[九种跨域方式实现原理（完整版）](https://github.com/ljianshu/Blog/issues/55)
 #### 3.[JavaScript的数据类型及其检测](https://github.com/ljianshu/Blog/issues/4)
 #### 4.[JavaScript创建对象几种形式 ](https://github.com/ljianshu/Blog/issues/17)
-#### 5.[细说数组常用遍历的方法](https://github.com/ljianshu/Blog/issues/31)
-#### 6.[浅拷贝与深拷贝](https://github.com/ljianshu/Blog/issues/5)
-#### 7.[深入浅出Javascript闭包](https://github.com/ljianshu/Blog/issues/6)
-#### 8.[你还没搞懂this？](https://github.com/ljianshu/Blog/issues/7)
-#### 9.[原型与原型链详解](https://github.com/ljianshu/Blog/issues/18)
-#### 10.[九种跨域方式实现原理（完整版）](https://github.com/ljianshu/Blog/issues/55)
+#### 5.[深入浅出JavaScript运行机制](https://github.com/ljianshu/Blog/issues/2)
+#### 6.[细说数组常用遍历的方法](https://github.com/ljianshu/Blog/issues/31)
+#### 7.[浅拷贝与深拷贝](https://github.com/ljianshu/Blog/issues/5)
+#### 8.[深入浅出Javascript闭包](https://github.com/ljianshu/Blog/issues/6)
+#### 9.[你还没搞懂this？](https://github.com/ljianshu/Blog/issues/7)
+#### 10.[原型与原型链详解](https://github.com/ljianshu/Blog/issues/18)
 #### 11.[Dom事件机制](https://github.com/ljianshu/Blog/issues/44)
 #### 12.[JavaScript常见的六种继承方式](https://github.com/ljianshu/Blog/issues/20)
 #### 13.[JavaScript数据类型转换](https://github.com/ljianshu/Blog/issues/1)
 #### 14.[JavaScript线程机制与事件机制](https://github.com/ljianshu/Blog/issues/28)
-#### 15.[前端模块化详解(完整版)](https://github.com/ljianshu/Blog/issues/48)
 #### 16.[浏览器与Node的事件循环(Event Loop)有何区别?](https://github.com/ljianshu/Blog/issues/54)
 ### |  ES6
 #### 1.[ES6核心特性](https://github.com/ljianshu/Blog/issues/10)
@@ -73,10 +72,10 @@
 - node入门系列
 - webpack配置与原理系列
 - Grid布局总结
-- 调用堆栈
 - 原型与原型链
 - bind、call、apply的实现原理
 - 高阶函数
+- JavaScript 柯里化
 - JavaScript设计模式
 - Promise原理及手写Promise
 - 计算机网络概述
