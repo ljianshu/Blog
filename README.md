@@ -4,7 +4,7 @@
 
 - [segmentFault博客(精华)](https://segmentfault.com/u/langlixingzhou/articles)
 
-- 想加入微信群，跟诸多一线大厂的大佬一起交流学习，进入前端工匠公众号👉点击进群交流，我拉你入群
+- 想加入**前端交流群**，跟诸多一线大厂的大佬交流学习，先进入前端工匠公众号👉点击“进群交流”，我拉你入群
  
 ### |  Vue全家桶
 #### 1.[从头开始学习Vuex](https://github.com/ljianshu/Blog/issues/36)
