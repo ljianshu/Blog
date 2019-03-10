@@ -93,4 +93,4 @@
 ### |  交流
 欢迎关注公众号：前端工匠，你的成长我们一起见证！如果你感觉有收获，欢迎给我打赏,以激励我更多输出优质开源内容
 
-![](https://user-gold-cdn.xitu.io/2019/3/9/169618de64c54768?w=1179&h=372&f=png&s=533174)
+![image.png](https://upload-images.jianshu.io/upload_images/3174701-38dead2bab33ebfa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
