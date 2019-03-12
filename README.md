@@ -5,14 +5,6 @@
 - [segmentFault博客(精华)](https://segmentfault.com/u/langlixingzhou/articles)
 
 - 想加入**前端交流群**，跟诸多一线大厂的大佬交流学习，先进入前端工匠公众号👉点击“进群交流”，我拉你入群
- 
-### |  Vue全家桶
-#### 1.[从头开始学习Vuex](https://github.com/ljianshu/Blog/issues/36)
-#### 2.[从头开始学习vue-router](https://github.com/ljianshu/Blog/issues/39)
-#### 3.[Vue2.0数据通信详解](https://github.com/ljianshu/Blog/issues/34)
-#### 4.[Vue2.0父子组件间通信](https://github.com/ljianshu/Blog/issues/32)
-#### 5.[Vue2.0自定义指令与实例的属性和方法](https://github.com/ljianshu/Blog/issues/33)
-#### 6.[Vue2.0组件的继承与扩展](https://github.com/ljianshu/Blog/issues/35)
 ### |  浏览器相关
 #### 1.[深入浅出浏览器渲染原理](https://github.com/ljianshu/Blog/issues/51)
 #### 2.[深入理解浏览器的缓存机制](https://github.com/ljianshu/Blog/issues/23)
@@ -55,6 +47,13 @@
 #### 3.[Ajax原理一篇就够了](https://github.com/ljianshu/Blog/issues/45)
 #### 4.[Ajax请求后台数据](https://github.com/ljianshu/Blog/issues/46)
 #### 5.[fetch 如何请求数据](https://github.com/ljianshu/Blog/issues/47)
+### |  Vue全家桶
+#### 1.[从头开始学习Vuex](https://github.com/ljianshu/Blog/issues/36)
+#### 2.[从头开始学习vue-router](https://github.com/ljianshu/Blog/issues/39)
+#### 3.[Vue2.0数据通信详解](https://github.com/ljianshu/Blog/issues/34)
+#### 4.[Vue2.0父子组件间通信](https://github.com/ljianshu/Blog/issues/32)
+#### 5.[Vue2.0自定义指令与实例的属性和方法](https://github.com/ljianshu/Blog/issues/33)
+#### 6.[Vue2.0组件的继承与扩展](https://github.com/ljianshu/Blog/issues/35)
 ### |  页面性能优化
 #### 1.[页面性能优化办法有哪些](https://github.com/ljianshu/Blog/issues/9)
 #### 2.[懒加载和预加载](https://github.com/ljianshu/Blog/issues/8)
