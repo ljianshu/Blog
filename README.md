@@ -15,7 +15,7 @@
 #### 2.[九种跨域方式实现原理（完整版）](https://github.com/ljianshu/Blog/issues/55)
 #### 3.[JavaScript的数据类型及其检测](https://github.com/ljianshu/Blog/issues/4)
 #### 4.[JavaScript数据类型转换](https://github.com/ljianshu/Blog/issues/1)
-#### 5.[深入理解JavaScript作用域和作用域链](https://github.com/ljianshu/Blog/issues/58)
+#### 5.[深入理解JavaScript作用域和作用域链](https://github.com/ljianshu/Blog/issues/59)
 #### 6.[深入浅出JavaScript运行机制](https://github.com/ljianshu/Blog/issues/2)
 #### 7.[细说数组常用遍历的方法](https://github.com/ljianshu/Blog/issues/31)
 #### 8.[浅拷贝与深拷贝](https://github.com/ljianshu/Blog/issues/5)
