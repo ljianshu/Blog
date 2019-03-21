@@ -67,6 +67,8 @@
 #### 1.[如何在线预览 GitHub 项目](https://github.com/ljianshu/Blog/issues/52)
 ### |  实战
 #### 1.[vue全家桶制作一个精致的美团项目](https://github.com/ljianshu/Blog/issues/37)
+### |  其他
+#### 1.[写技术博客那点事](https://github.com/ljianshu/Blog/issues/62)
 ### |  2019年写作计划(暂定)
 今年除了对觉得不满意的以往文章进行迭代，还打算至少写50篇原创高质量文章，目前预计会涉及到以下主题：
 - vue深入系列
