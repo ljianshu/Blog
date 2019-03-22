@@ -12,7 +12,6 @@
 #### 1.[深入浅出浏览器渲染原理](https://github.com/ljianshu/Blog/issues/51)
 #### 2.[深入理解浏览器的缓存机制](https://github.com/ljianshu/Blog/issues/23)
 #### 3.[从URL输入到页面展现到底发生什么？](https://github.com/ljianshu/Blog/issues/24)
-#### 4.[浏览器存储](https://github.com/ljianshu/Blog/issues/25)
 ### |  Javascript
 #### 1.[前端模块化详解(完整版)](https://github.com/ljianshu/Blog/issues/48)
 #### 2.[九种跨域方式实现原理（完整版）](https://github.com/ljianshu/Blog/issues/55)
