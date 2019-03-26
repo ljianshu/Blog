@@ -59,12 +59,11 @@
 #### 4.[Vue2.0父子组件间通信](https://github.com/ljianshu/Blog/issues/32)
 #### 5.[Vue2.0自定义指令与实例的属性和方法](https://github.com/ljianshu/Blog/issues/33)
 #### 6.[Vue2.0组件的继承与扩展](https://github.com/ljianshu/Blog/issues/35)
-### |  页面性能优化
+### |  页面性能优化与安全
 #### 1.[页面性能优化办法有哪些](https://github.com/ljianshu/Blog/issues/9)
 #### 2.[懒加载和预加载](https://github.com/ljianshu/Blog/issues/8)
-#### 3.[函数节流和防抖](https://github.com/ljianshu/Blog/issues/43)
-### |  web安全
-#### 1.[常见六大Web安全攻防解析](https://github.com/ljianshu/Blog/issues/56)
+#### 3.[函数节流和防抖](https://github.com/ljianshu/Blog/issues/43).
+#### 4.[常见六大Web安全攻防解析](https://github.com/ljianshu/Blog/issues/56)
 ### |  工具
 #### 1.[如何在线预览 GitHub 项目](https://github.com/ljianshu/Blog/issues/52)
 ### |  实战
