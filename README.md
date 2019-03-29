@@ -68,6 +68,8 @@
 #### 1.[如何在线预览 GitHub 项目](https://github.com/ljianshu/Blog/issues/52)
 ### |  实战
 #### 1.[vue全家桶制作一个精致的美团项目](https://github.com/ljianshu/Blog/issues/37)
+### |  面试
+#### 1.[Javascript 面试核心考点(基础版)](https://github.com/ljianshu/Blog/issues/63)
 ### |  其他
 #### 1.[写技术博客那点事](https://github.com/ljianshu/Blog/issues/62)
 ### |  2019年写作计划(暂定)
