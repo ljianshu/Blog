@@ -9,9 +9,7 @@
 
 - 想加入**前端交流群**，跟诸多一线大厂的大佬交流学习，先进入前端工匠公众号👉点击“进群交流”，我拉你入群
 
-| 优质交流群 | 微信公众号 |
-| --- | --- |
-|![2](https://user-gold-cdn.xitu.io/2019/3/29/169c50db69a56cfb?w=225&h=225&f=jpeg&s=24387)|![1](https://user-gold-cdn.xitu.io/2019/3/28/169c5044a2e033b2?w=258&h=258&f=png&s=41980)|
+![](https://upload-images.jianshu.io/upload_images/3174701-38dead2bab33ebfa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### |  浏览器相关
 #### 1.[深入浅出浏览器渲染原理](https://github.com/ljianshu/Blog/issues/51)
@@ -106,6 +104,6 @@
 - Virtual Dom原理
 - 前端数据结构与算法
 
-### |  交流
-欢迎关注公众号：前端工匠，你的成长我们一起见证！
-![](https://upload-images.jianshu.io/upload_images/3174701-38dead2bab33ebfa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+### |  打赏
+如果觉得文章不错，欢迎打赏，为作者加油呐喊！
+![](https://user-gold-cdn.xitu.io/2019/4/4/169e852602a7135c?w=354&h=220&f=png&s=47749)
