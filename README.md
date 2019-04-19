@@ -89,6 +89,7 @@
 - 原型与原型链
 - bind、call、apply的实现原理
 - 高阶函数
+- AST编译解析
 - JavaScript 柯里化
 - JavaScript设计模式
 - JavaScript内存管理与垃圾回收
