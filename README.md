@@ -92,7 +92,6 @@
 - AST编译解析
 - JavaScript 柯里化
 - JavaScript设计模式
-- JavaScript内存管理与垃圾回收
 - javascript面向对象编程
 - Promise原理及手写Promise
 - 计算机网络概述
