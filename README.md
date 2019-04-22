@@ -35,6 +35,7 @@
 #### 14.[JavaScript常见的六种继承方式](https://github.com/ljianshu/Blog/issues/20)
 #### 15.[JavaScript线程机制与事件机制](https://github.com/ljianshu/Blog/issues/28)
 #### 16.[浏览器与Node的事件循环(Event Loop)有何区别?](https://github.com/ljianshu/Blog/issues/54)
+#### 17.[JavaScript中的垃圾回收和内存泄漏]()
 ### |  ES6
 #### 1.[ES6核心特性](https://github.com/ljianshu/Blog/issues/10)
 #### 2.[ES6数组的扩展--Array.from()和Array.of()](https://github.com/ljianshu/Blog/issues/12)
@@ -51,7 +52,7 @@
 #### 7.[实现三栏布局的几种方法](https://github.com/ljianshu/Blog/issues/14)
 ### |  Http协议与数据请求
 #### 1.[关于Http协议，你必须要知道的](https://github.com/ljianshu/Blog/issues/22)
-#### 2.[深入浅出HTTPS工作原理](https://github.com/ljianshu/Blog/issues/50)
+#### 2.[为什么HTTPS比HTTP更安全?](https://github.com/ljianshu/Blog/issues/50)
 #### 3.[一文读懂HTTP/2 及 HTTP/3特性](https://github.com/ljianshu/Blog/issues/57)
 #### 4.[Web 实时推送技术的总结](https://github.com/ljianshu/Blog/issues/58)
 #### 5.[TCP和UDP比较](https://github.com/ljianshu/Blog/issues/61)
