@@ -35,7 +35,7 @@
 #### 14.[JavaScript常见的六种继承方式](https://github.com/ljianshu/Blog/issues/20)
 #### 15.[JavaScript线程机制与事件机制](https://github.com/ljianshu/Blog/issues/28)
 #### 16.[浏览器与Node的事件循环(Event Loop)有何区别?](https://github.com/ljianshu/Blog/issues/54)
-#### 17.[JavaScript中的垃圾回收和内存泄漏]()
+#### 17.[JavaScript中的垃圾回收和内存泄漏](https://github.com/ljianshu/Blog/issues/65)
 ### |  ES6
 #### 1.[ES6核心特性](https://github.com/ljianshu/Blog/issues/10)
 #### 2.[ES6数组的扩展--Array.from()和Array.of()](https://github.com/ljianshu/Blog/issues/12)
