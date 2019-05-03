@@ -97,7 +97,6 @@
 - javascript异常处理
 - Promise原理及手写Promise
 - 计算机网络概述
-- websocket搭建聊天室
 - 前端监控
 - 性能优化
 - 骨架屏实现
