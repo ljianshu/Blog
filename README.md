@@ -84,7 +84,7 @@
 - vue深入系列
 - react入门系列
 - node入门系列
-- webpack配置与原理系列
+- webpack配置与原理
 - Grid布局总结
 - 响应式布局
 - 原型与原型链
