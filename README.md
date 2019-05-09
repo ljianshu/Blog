@@ -103,6 +103,7 @@
 - Vue3.0新特性
 - vue与react对比
 - MVVM框架实现原理
+- vue 双向数据绑定实现原理
 - Diff算法
 - Virtual Dom原理
 - 前端数据结构与算法
