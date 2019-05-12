@@ -71,6 +71,9 @@
 #### 4.[Vue2.0父子组件间通信](https://github.com/ljianshu/Blog/issues/32)
 #### 5.[Vue2.0自定义指令与实例的属性和方法](https://github.com/ljianshu/Blog/issues/33)
 #### 6.[Vue2.0组件的继承与扩展](https://github.com/ljianshu/Blog/issues/35)
+- vue组件三大重要概念(写作中)
+- vue 双向数据绑定实现原理(写作中)
+- vue计算属性和watch的区别(写作中)
 ### |  工具
 #### 1.[如何在线预览 GitHub 项目](https://github.com/ljianshu/Blog/issues/52)
 ### |  实战
@@ -103,7 +106,6 @@
 - Vue3.0新特性
 - vue与react对比
 - MVVM框架实现原理
-- vue 双向数据绑定实现原理
 - Diff算法
 - Virtual Dom原理
 - 前端数据结构与算法
