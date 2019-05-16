@@ -17,11 +17,6 @@ export default {
     ChildrenB,
     ChildrenC
   },
-  data() {
-    return {
-      color: "blue"
-    };
-  },
   // provide() {
   //   return {
   //     theme: {
