@@ -67,7 +67,7 @@
 ### |  Vue全家桶
 #### 1.[从头开始学习Vuex](https://github.com/ljianshu/Blog/issues/36)
 #### 2.[从头开始学习vue-router](https://github.com/ljianshu/Blog/issues/39)
-#### 3.[Vue2.0数据通信详解](https://github.com/ljianshu/Blog/issues/34)
+#### 3.[vue组件间通信六种方式（完整版）](https://github.com/ljianshu/Blog/issues/66)
 #### 4.[Vue2.0自定义指令与实例的属性和方法](https://github.com/ljianshu/Blog/issues/33)
 #### 5.[Vue2.0组件的继承与扩展](https://github.com/ljianshu/Blog/issues/35)
 - vue组件三大重要概念(写作中)
