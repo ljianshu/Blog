@@ -16,7 +16,7 @@ export default {
     boo: String
   },
   created() {
-    console.log(this.$attrs); // { "boo": "Html", "coo": "CSS", "doo": "Vue", "title": "前端工匠" }
+    console.log(this.$attrs); // {"coo": "CSS", "doo": "Vue", "title": "前端工匠" }
   }
 };
 </script>
