@@ -67,10 +67,10 @@
 ### |  Vue全家桶
 #### 1.[从头开始学习Vuex](https://github.com/ljianshu/Blog/issues/36)
 #### 2.[从头开始学习vue-router](https://github.com/ljianshu/Blog/issues/39)
-#### 3.[vue组件间通信六种方式（完整版）](https://github.com/ljianshu/Blog/issues/66)
-#### 4.[Vue2.0自定义指令与实例的属性和方法](https://github.com/ljianshu/Blog/issues/33)
-#### 5.[Vue2.0组件的继承与扩展](https://github.com/ljianshu/Blog/issues/35)
-- vue组件三大重要概念(写作中)
+#### 3.[vue组件三大核心概念]()
+#### 4.[vue组件间通信六种方式（完整版）](https://github.com/ljianshu/Blog/issues/66)
+#### 5.[Vue2.0自定义指令与实例的属性和方法](https://github.com/ljianshu/Blog/issues/33)
+#### 6.[Vue2.0组件的继承与扩展](https://github.com/ljianshu/Blog/issues/35)
 - vue 双向数据绑定实现原理(写作中)
 - vue计算属性和watch的区别(写作中)
 ### |  工具
