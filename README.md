@@ -69,10 +69,8 @@
 #### 2.[从头开始学习vue-router](https://github.com/ljianshu/Blog/issues/39)
 #### 3.[vue组件三大核心概念](https://github.com/ljianshu/Blog/issues/67)
 #### 4.[vue组件间通信六种方式（完整版）](https://github.com/ljianshu/Blog/issues/66)
-#### 5.[Vue2.0自定义指令与实例的属性和方法](https://github.com/ljianshu/Blog/issues/33)
-#### 6.[Vue2.0组件的继承与扩展](https://github.com/ljianshu/Blog/issues/35)
+#### 5.[vue计算属性和watch的区别]()
 - vue 双向数据绑定实现原理(写作中)
-- vue计算属性和watch的区别(写作中)
 ### |  工具
 #### 1.[如何在线预览 GitHub 项目](https://github.com/ljianshu/Blog/issues/52)
 ### |  实战
