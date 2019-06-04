@@ -72,6 +72,8 @@
 #### 5.[vue计算属性和watch的区别]()
 - vue 双向数据绑定实现原理(写作中)
 - 说说Vue的MVVM实现原理(写作中)
+- Virtual Dom原理(写作中)
+- 依赖收集追踪原理(写作中)
 ### |  工具
 #### 1.[如何在线预览 GitHub 项目](https://github.com/ljianshu/Blog/issues/52)
 ### |  实战
@@ -103,9 +105,7 @@
 - 骨架屏实现
 - Vue3.0新特性
 - vue与react对比
-- MVVM框架实现原理
 - Diff算法
-- Virtual Dom原理
 - 前端数据结构与算法
 
 ### |  打赏
