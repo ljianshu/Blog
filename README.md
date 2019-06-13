@@ -69,7 +69,7 @@
 #### 2.[从头开始学习vue-router](https://github.com/ljianshu/Blog/issues/39)
 #### 3.[vue组件三大核心概念](https://github.com/ljianshu/Blog/issues/67)
 #### 4.[vue组件间通信六种方式（完整版）](https://github.com/ljianshu/Blog/issues/66)
-#### 5.[vue计算属性和watch的区别]()
+#### 5.[vue计算属性和watch的区别](https://github.com/ljianshu/Blog/issues/68)
 - Vue渲染函数与函数式组件(写作中)
 - vue双向数据绑定与依赖收集原理(写作中)
 - 说说Vue的MVVM实现原理(写作中)
