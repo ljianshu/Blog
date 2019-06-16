@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Vue响应式原理</title>
+  </head>
+  <body>
+    <p>Object.defineProperty模拟实现响应式</p>
+    <script>
+      let data = {
+        name: '浪里行舟',
+        location: 'xiamen'
+      }
+      observe(data)
+      let name = data.name //get 浪里行舟
+      data.name = '前端工匠' //set 前端工匠
+      function observe(obj) {
+        // 判断类型
+        if (!obj || typeof obj !== 'object') {
+          return
+        }
+        Object.keys(obj).forEach(key => {
+          defineReactive(obj, key, obj[key])
+        })
+        function defineReactive(obj, key, value) {
+          // 递归子属性
+          observe(value)
+          Object.defineProperty(obj, key, {
+            enumerable: true, //可枚举
+            configurable: true, //可配置
+            get: function reactiveGetter() {
+              console.log('get', value) // 监听
+              return value
+            },
+            set: function reactiveSetter(newVal) {
+              console.log('set', newVal) // 监听
+              value = newVal
+            }
+          })
+        }
+      }
+    </script>
+  </body>
+</html>
