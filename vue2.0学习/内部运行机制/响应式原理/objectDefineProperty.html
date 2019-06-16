@@ -9,13 +9,14 @@
   <body>
     <p>Object.defineProperty模拟实现响应式</p>
     <script>
+      function render() {
+        console.log('模拟视图渲染')
+      }
       let data = {
         name: '浪里行舟',
-        location: 'xiamen'
+        location: { x: 100, y: 100 }
       }
       observe(data)
-      let name = data.name //get 浪里行舟
-      data.name = '前端工匠' //set 前端工匠
       function observe(obj) {
         // 判断类型
         if (!obj || typeof obj !== 'object') {
@@ -35,12 +36,21 @@
               return value
             },
             set: function reactiveSetter(newVal) {
-              console.log('set', newVal) // 监听
-              value = newVal
+              observe(newVal) //如果赋值是一个对象，也要递归子属性
+              if (newVal !== value) {
+                console.log('set', newVal) // 监听
+                render()
+                value = newVal
+              }
             }
           })
         }
       }
+      data.location = {
+        x: 1000,
+        y: 1000
+      } //set {x: 1000,y: 1000} 模拟视图渲染
+      data.name // get 浪里行舟
     </script>
   </body>
 </html>
