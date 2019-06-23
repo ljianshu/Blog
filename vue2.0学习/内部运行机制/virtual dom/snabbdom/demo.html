@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Document</title>
+</head>
+
+<body>
+    <div id="container"></div>
+    <button id="btn-change">change</button>
+    <script src="https://cdn.bootcss.com/snabbdom/0.7.1/snabbdom.js"></script>
+    <script src="https://cdn.bootcss.com/snabbdom/0.7.1/snabbdom-class.js"></script>
+    <script src="https://cdn.bootcss.com/snabbdom/0.7.1/snabbdom-props.js"></script>
+    <script src="https://cdn.bootcss.com/snabbdom/0.7.1/snabbdom-style.js"></script>
+    <script src="https://cdn.bootcss.com/snabbdom/0.7.1/snabbdom-eventlisteners.js"></script>
+    <script src="https://cdn.bootcss.com/snabbdom/0.7.1/h.js"></script>
+    <script type="text/javascript">
+    var snabbdom = window.snabbdom
+
+    // snabbdom核心API:h函数、patch函数
+    // h（'<标签名>',{..属性..},[..子元素..]）
+    // h（'<标签名>',{..属性..},'...'）
+    // patch（container，vnode）
+    // patch（vnode，newVnode）
+
+    // 定义 patch
+    var patch = snabbdom.init([
+        snabbdom_class,
+        snabbdom_props,
+        snabbdom_style,
+        snabbdom_eventlisteners
+    ])
+
+    // 定义 h
+    var h = snabbdom.h
+
+    var container = document.getElementById('container')
+
+    // h函数生成 vnode
+    var vnode = h('ul#list', {}, [
+        h('li.item', {}, 'Item 1'),
+        h('li.item', {}, 'Item 2')
+    ])
+    patch(container, vnode)
+
+    document
+        .getElementById('btn-change')
+        .addEventListener('click', function() {
+            // 生成 newVnode
+            var newVnode = h('ul#list', {}, [
+                h('li.item', {}, 'Item 1'),
+                h('li.item', {}, 'Item B'),
+                h('li.item', {}, 'Item 3')
+            ])
+            patch(vnode, newVnode)
+        })
+    </script>
+    <script>
+    var element = {
+        tag: 'ul', // 节点标签名
+        attrs: {
+            // DOM的属性
+            id: 'list'
+        },
+        children: [
+            // 该节点的子节点
+            {
+                tag: 'li',
+                attrs: {
+                    className: 'item'
+                },
+                children: ['item1']
+            },
+            {
+                tag: 'li',
+                attrs: {
+                    className: 'item'
+                },
+                children: ['item2']
+            }
+        ]
+    }
+    </script>
+</body>
+
+</html>
