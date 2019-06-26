@@ -1,3 +1,4 @@
+// Object.defineProperty如何实现对象响应式变化
 function render() {
   console.log('模拟视图渲染')
 }
