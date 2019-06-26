@@ -72,7 +72,7 @@
 #### 5.[vue计算属性和watch的区别](https://github.com/ljianshu/Blog/issues/68)
 #### 6.[浅析Vue中的Virtual Dom](https://github.com/ljianshu/Blog/issues/69) 
 - vue中如何解析模板(写作中)
-- vue双向数据绑定与依赖收集原理(写作中)
+- vue响应式原理(写作中)
 - Vue渲染函数与函数式组件(写作中)
 - 说说Vue的MVVM实现原理(写作中)
 
