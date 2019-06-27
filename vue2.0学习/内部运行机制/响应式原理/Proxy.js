@@ -5,9 +5,9 @@ function render() {
   console.log('模拟视图的更新')
 }
 let obj = {
-  name: 'jw',
+  name: '前端工匠',
   age: { age: 100 },
-  arr: []
+  arr: [1, 2, 3]
 }
 let handler = {
   get(target, key) {
@@ -25,7 +25,8 @@ let handler = {
 }
 
 let proxy = new Proxy(obj, handler)
-proxy.age.age = 200
-console.log(proxy.age.age)
-proxy.arr.push(123)
-console.log(proxy.arr)
+proxy.age.name = '浪里行舟' // 支持新增属性
+console.log(proxy.age.name) // 模拟视图的更新 浪里行舟
+proxy.arr[0] = '浪里行舟' //支持数组的内容发生变化
+console.log(proxy.arr) // 模拟视图的更新 ['浪里行舟', 2, 3 ]
+proxy.arr.length-- // 无效
