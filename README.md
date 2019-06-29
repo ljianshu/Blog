@@ -70,7 +70,7 @@
 #### 3.[vue组件三大核心概念](https://github.com/ljianshu/Blog/issues/67)
 #### 4.[vue组件间通信六种方式（完整版）](https://github.com/ljianshu/Blog/issues/66)
 #### 5.[vue计算属性和watch的区别](https://github.com/ljianshu/Blog/issues/68)
-#### 6.[浅析Vue中的Virtual Dom](https://github.com/ljianshu/Blog/issues/69) 
+#### 6.[揭秘Vue中的Virtual Dom](https://github.com/ljianshu/Blog/issues/69) 
 #### 7.[深入理解vue响应式原理]()
 - vue中如何解析模板(写作中)
 - Vue渲染函数与函数式组件(写作中)
@@ -108,7 +108,6 @@
 - 性能优化
 - 骨架屏实现
 - Vue3.0新特性
-- vue与react对比
 - 前端数据结构与算法
 
 ### |  打赏
