@@ -1,4 +1,3 @@
-// 想要通 $attr 接收，但必须要保证设置选项 inheritAttrs: false，不然会默认变成根元素的属性节点。
 <template>
   <div>
     <h2>浪里行舟</h2>
