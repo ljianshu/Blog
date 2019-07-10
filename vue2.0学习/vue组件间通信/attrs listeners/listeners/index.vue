@@ -1,7 +1,11 @@
 <template>
   <div class="hello">
-    {{ firstMsg }}
-    <child1 @changeData="changeData" @another="another" @other="other"></child1>
+    <div class="msg">{{ firstMsg }}</div>
+    <child1
+      @changeData="changeData"
+      @another="anotherEvent"
+      @other="otherEvent"
+    ></child1>
   </div>
 </template>
 
@@ -20,12 +24,21 @@ export default {
     changeData(params) {
       this.firstMsg = params;
     },
-    another() {
+    anotherEvent() {
       alert("another");
     },
-    other() {
+    otherEvent() {
       alert("other");
     }
   }
 };
 </script>
+<style>
+.hello {
+  margin: 20px;
+}
+.msg {
+  font-size: 20px;
+  font-weight: bold;
+}
+</style>
