@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+       <div id="app">
+           <!-- this.$on('update:value',pchange) -->
+            <my-input :value="value" @update:value="val=>value=val"></my-input>
+            <!-- 如果改变的属性叫 a 对应的方法 叫 update:a  => :a.sync -->
+            <my-input :value="value" @update:value="val=>value=val"></my-input>
+            <my-input :value.sync="value" ></my-input>
+            <!-- :vaule + @input  v-model -->
+            <my-input :value="value" @input="val=>value=val" ></my-input>
+            <my-input v-model="value" ></my-input>
+        </div>
+        <!-- vue-cli 3.0 -->
+        <script src="./node_modules/vue/dist/vue.js"></script>
+        <script>
+            Vue.component('my-input',{
+                props:['value'],
+                template:`<input type="text" :value="value" @input="change"/>`,
+                methods:{
+                    change(e){
+                        this.$emit('update:value',e.target.value);
+                        this.$emit('input',e.target.value)
+                    }
+                }
+            });
+            let vm = new Vue({
+                el:'#app',
+                data(){
+                    return {value:'hello1111'}
+                },
+                methods:{
+                    // pchange(val){
+                    //     this.value = val;
+                    // }
+                }
+            });
+            // 组件的数据流 父组件将数据传递给子组件。子组件不能直接更改数据
+        </script>
+</body>
+</html>
