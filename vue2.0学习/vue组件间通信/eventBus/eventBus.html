@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div id="app">
+      <brother1></brother1>
+      <brother2></brother2>
+    </div>
+    <script src="./node_modules/vue/dist/vue.js"></script>
+    <script>
+      // 评级组件通信 可以通过共同的父亲传参
+      // 一个全局的发布订阅的方式
+      // eventBus 比较适合 简单的数据流
+      Vue.prototype.$bus = new Vue()
+      Vue.component('brother1', {
+        template: `<div>brother1</div>`,
+        mounted() {
+          this.$bus.$on('吃', food => {
+            console.log(food)
+          })
+        }
+      })
+      Vue.component('brother2', {
+        template: `<div>brother2</div>`,
+        mounted() {
+          this.$bus.$emit('吃', '苹果')
+        }
+      })
+      let vm = new Vue({
+        el: '#app'
+      })
+    </script>
+  </body>
+</html>
