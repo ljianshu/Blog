@@ -1,3 +1,4 @@
+//v-model 毕竟不是给组件与组件之间通信而设计的双向绑定，无论从语意上和代码写法上都没有 .sync 直观和方便。
 <template>
   <div class="hello">
     <div>
