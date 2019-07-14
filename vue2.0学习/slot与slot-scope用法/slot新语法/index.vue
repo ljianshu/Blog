@@ -7,6 +7,10 @@
         <p>具名插槽：title slot1</p>
         <p>具名插槽：title slot2</p>
       </template>
+      <template v-slot:title>
+        <p>new具名插槽：title slot1</p>
+        <p>new具名插槽：title slot2</p>
+      </template>
       <template v-slot:item="props">
         <p>作用域插槽：item slot-scope {{ props }}</p>
       </template>
