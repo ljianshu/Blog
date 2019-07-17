@@ -13,7 +13,7 @@ import moment from "moment";
 export default {
   filters: {
     filterDate(value, format = "YYYY-MM-DD HH:mm:ss") {
-      return moment(value).format(format);
+      return moment(value).format(format);// format如果没传值，就是以“YYYY-MM-DD HH:mm:ss”格式
     }
   },
   data() {
