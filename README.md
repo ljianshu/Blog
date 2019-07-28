@@ -98,8 +98,6 @@
 - 响应式布局
 - 原型与原型链
 - bind、call、apply的实现原理
-- 高阶函数
-- JavaScript 柯里化
 - JavaScript设计模式
 - javascript面向对象编程
 - javascript异常处理
