@@ -36,7 +36,7 @@
 #### 15.[JavaScript线程机制与事件机制](https://github.com/ljianshu/Blog/issues/28)
 #### 16.[浏览器与Node的事件循环(Event Loop)有何区别?](https://github.com/ljianshu/Blog/issues/54)
 #### 17.[JavaScript中的垃圾回收和内存泄漏](https://github.com/ljianshu/Blog/issues/65)
-- javascript函数式编程
+#### 18.[javascript函数式编程](https://github.com/ljianshu/Blog/issues/72)
 - 浅谈 MVC、MVP 和 MVVM 架构模式(写作中)
 ### |  ES6
 #### 1.[ES6核心特性](https://github.com/ljianshu/Blog/issues/10)
