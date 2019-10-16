@@ -53,7 +53,7 @@
 ### |  Http协议与数据请求
 #### 1.[关于Http协议，你必须要知道的](https://github.com/ljianshu/Blog/issues/22)
 #### 2.[深入理解HTTPS工作原理](https://github.com/ljianshu/Blog/issues/50)
-#### 3.[一文读懂HTTP/2 及 HTTP/3特性](https://github.com/ljianshu/Blog/issues/57)
+#### 3.[解读HTTP/2 及 HTTP/3特性](https://github.com/ljianshu/Blog/issues/57)
 #### 4.[Web 实时推送技术的总结](https://github.com/ljianshu/Blog/issues/58)
 #### 5.[TCP和UDP比较](https://github.com/ljianshu/Blog/issues/61)
 #### 6.[Ajax原理一篇就够了](https://github.com/ljianshu/Blog/issues/45)
