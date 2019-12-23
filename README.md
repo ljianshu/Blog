@@ -39,6 +39,7 @@
 ### |  ES6
 #### 1.[ES6核心特性](https://github.com/ljianshu/Blog/issues/10)
 #### 2.[ES7、ES8、ES9、ES10新特性](https://github.com/ljianshu/Blog/issues/76)
+#### 3.[7个令人兴奋的 JavaScript 新特性](https://github.com/ljianshu/Blog/issues/77)
 #### 3.[ES6数组的扩展--Array.from()和Array.of()](https://github.com/ljianshu/Blog/issues/12)
 #### 4.[异步解决方案--Promise与Await](https://github.com/ljianshu/Blog/issues/13)
 #### 5.[JS 异步编程六种方案](https://github.com/ljianshu/Blog/issues/53)
