@@ -35,11 +35,11 @@
 #### 14.[浏览器与Node的事件循环(Event Loop)有何区别?](https://github.com/ljianshu/Blog/issues/54)
 #### 15.[JavaScript中的垃圾回收和内存泄漏](https://github.com/ljianshu/Blog/issues/65)
 #### 16.[javascript函数式编程](https://github.com/ljianshu/Blog/issues/72)
-- 浅谈 MVC、MVP 和 MVVM 架构模式(写作中)
+
 ### |  ES6
 #### 1.[ES6核心特性](https://github.com/ljianshu/Blog/issues/10)
 #### 2.[ES7、ES8、ES9、ES10新特性](https://github.com/ljianshu/Blog/issues/76)
-#### 3.[7个令人兴奋的 JavaScript 新特性](https://github.com/ljianshu/Blog/issues/77)
+#### 3.[7个令人兴奋的 JavaScript 新特性](https://github.com/ljianshu/Blog/issues/78)
 #### 4.[ES6数组的扩展--Array.from()和Array.of()](https://github.com/ljianshu/Blog/issues/12)
 #### 5.[异步解决方案--Promise与Await](https://github.com/ljianshu/Blog/issues/13)
 #### 6.[JS 异步编程六种方案](https://github.com/ljianshu/Blog/issues/53)
