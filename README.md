@@ -36,14 +36,15 @@
 #### 15.[JavaScript中的垃圾回收和内存泄漏](https://github.com/ljianshu/Blog/issues/65)
 #### 16.[javascript函数式编程](https://github.com/ljianshu/Blog/issues/72)
 
-### |  ES6
+### |  ES6+
 #### 1.[ES6核心特性](https://github.com/ljianshu/Blog/issues/10)
 #### 2.[ES7、ES8、ES9、ES10新特性](https://github.com/ljianshu/Blog/issues/76)
-#### 3.[7个令人兴奋的 JavaScript 新特性](https://github.com/ljianshu/Blog/issues/78)
-#### 4.[ES6数组的扩展--Array.from()和Array.of()](https://github.com/ljianshu/Blog/issues/12)
-#### 5.[异步解决方案--Promise与Await](https://github.com/ljianshu/Blog/issues/13)
-#### 6.[JS 异步编程六种方案](https://github.com/ljianshu/Blog/issues/53)
-#### 7.[ES6迭代器和生成器](https://github.com/ljianshu/Blog/issues/42)
+#### 3.[ES2020新特性](https://github.com/ljianshu/Blog/issues/79)
+#### 4.[7个令人兴奋的 JavaScript 新特性](https://github.com/ljianshu/Blog/issues/78)
+#### 5.[ES6数组的扩展--Array.from()和Array.of()](https://github.com/ljianshu/Blog/issues/12)
+#### 6.[异步解决方案--Promise与Await](https://github.com/ljianshu/Blog/issues/13)
+#### 7.[JS 异步编程六种方案](https://github.com/ljianshu/Blog/issues/53)
+#### 8.[ES6迭代器和生成器](https://github.com/ljianshu/Blog/issues/42)
 ### |  CSS
 #### 1.[如何居中一个元素（终结版)](https://github.com/ljianshu/Blog/issues/29)
 #### 2.[关于响应式布局，你必须要知道的](https://github.com/ljianshu/Blog/issues/38)
