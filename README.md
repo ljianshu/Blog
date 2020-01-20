@@ -75,7 +75,7 @@
 #### 5.[vue计算属性和watch的区别](https://github.com/ljianshu/Blog/issues/68)
 #### 6.[揭秘Vue中的Virtual Dom](https://github.com/ljianshu/Blog/issues/69) 
 #### 7.[深入理解vue响应式原理](https://github.com/ljianshu/Blog/issues/70)
-- [vue一些实用技巧](https://github.com/ljianshu/Blog/issues/71)
+- [vue一些实用技巧（初稿）](https://github.com/ljianshu/Blog/issues/71)
 - vue中如何解析模板(写作中)
 - Vue渲染函数与函数式组件(写作中)
 - 说说Vue的MVVM实现原理(写作中)
@@ -84,6 +84,7 @@
 
 ### |  工具
 #### 1.[如何在线预览 GitHub 项目](https://github.com/ljianshu/Blog/issues/52)
+#### 2.[让开发效率“飞起”的VS Code 插件](https://github.com/ljianshu/Blog/issues/80)
 ### |  实战
 #### 1.[vue全家桶制作一个精致的美团项目](https://github.com/ljianshu/Blog/issues/37)
 ### |  面试
@@ -93,24 +94,15 @@
 #### 1.[写技术博客那点事](https://github.com/ljianshu/Blog/issues/62)
 ### |  写作计划(暂定)
 今年除了对觉得不满意的以往文章进行迭代，还打算至少写三十篇原创高质量文章，目前预计会涉及到以下主题：
-- vue深入系列
-- node入门系列
-- webpack配置与原理
-- Grid布局总结
-- 响应式布局
-- 原型与原型链
-- bind、call、apply的实现原理
+- Vue深入系列
+- Node入门系列
+- TypeScript入门实战
+- Webpack配置与原理
 - JavaScript设计模式
-- javascript面向对象编程
-- javascript异常处理
-- Promise原理及手写Promise
-- 计算机网络概述
-- 前端监控
-- 性能优化
-- Vue3.0新特性
+- JavaScript面向对象
 - 前端数据结构与算法
-- chrome调试技巧
-- MVC、MVP与MVVM区别
+- 前端性能优化
+- Http协议与网络
 
 ### |  打赏
 如果你感觉有收获，欢迎给我打赏,以激励我更多输出优质开源内容!
