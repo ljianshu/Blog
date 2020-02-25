@@ -11,7 +11,7 @@
 
  欢迎关注公众号：**前端工匠**，你的成长我们一起见证！	
 
-![](https://user-gold-cdn.xitu.io/2019/9/2/16ced9f1b4979637?w=735&h=231&f=png&s=223559)
+![](https://user-gold-cdn.xitu.io/2020/2/25/1707ce383df5fa0d?w=952&h=292&f=png&s=323595)
 
 ### |  浏览器相关
 #### 1.[深入浅出浏览器渲染原理](https://github.com/ljianshu/Blog/issues/51)
