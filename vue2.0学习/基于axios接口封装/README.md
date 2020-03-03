@@ -1,4 +1,3 @@
-# demo
 
 ## Project setup
 ```
@@ -9,7 +8,7 @@ npm install
 ```
 npm run serve
 ```
-## api接口的模块化管理规范
+## api接口的模块化管理规范（基于axios）
 单独模块管理接口，其中http.js文件就是封装好的接口请求库
 ```
 // personal.js文件
@@ -47,4 +46,4 @@ Vue.prototype.$api=api;
     }
   }
 ```
-**本代码中提供了两种封装方式：axios和fetch，分别对应http.js和request.js文件**
+**本代码中提供了两种封装方式：axios和fetch，分别对应http.js和request.js文件**，项目中主要以前者为主
