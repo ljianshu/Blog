@@ -39,7 +39,7 @@ Vue.prototype.$api=api;
 //=>在组件中使用
  methods: {
     login() {
-      this.$api.person.login().then(result => {
+      this.$api.personal.login().then(result => {
          console.log(result) // 直接就可以调用api,无需再引入api.js文件
         // 业务逻辑
       })
