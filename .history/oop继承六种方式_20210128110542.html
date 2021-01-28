@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>JavaScript继承</title>
+</head>
+
+<body>
+    <script>
+        // 原型链继承
+        // function Person(name, age) {
+        //     this.name = name,
+        //     this.age = age,
+        //     this.setName = function () { }
+        // }
+        // Person.prototype.setAge = function () { }
+        // function Student(name, age, price) {
+        //     Person.call(this, name, age)
+        //     this.price = price
+        // }
+        // var s1 = new Student('Tom', 20, 15000)
+        // console.log(s1)
+
+        // 借用构造函数继承
+        // function Person(name, age) {
+        //     this.name = name,
+        //         this.age = age
+        // }
+        // Person.prototype.setAge = function () {
+        //     console.log("111")
+        // }
+        // function Student(price) {
+        //     this.price = price
+        //     this.setScore = function () { }
+        // }
+        // Student.prototype.sayHello = function () { }
+        // Student.prototype = new Person
+        // Student.prototype.sayHello = function () { }
+        // var s1 = new Student(15000)
+        // var s2 = new Student(14000)
+        // console.log(s1, s2)
+        // s1.play.push(4)
+        // console.log(s1.setAge, s2.setAge)
+        // console.log(s1.__proto__ === s2.__proto__)
+        // console.log(s1.__proto__.__proto__ === s2.__proto__.__proto__)
+        // console.log(s1.__proto__.__proto__.__proto__ === Object.prototype)
+
+        // 原型链+借用构造函数的组合继承
+        // function Person(name, age) {
+        //     this.name = name,
+        //         this.age = age,
+        //         this.setAge = function () { }
+        // }
+        // Person.prototype.setAge = function () {
+        //     console.log("111")
+        // }
+        // var p1 = new Person('jack', 15)
+        // function Student(name, age, price) {
+        //     Person.call(this, name, age)
+        //     this.price = price
+        //     this.setScore = function () { }
+        // }
+        // Student.prototype = new Person()
+        // Student.prototype.constructor = Student//组合继承也是需要修复构造函数指向的
+        // Student.prototype.sayHello = function () { }
+        // var s1 = new Student('Tom', 20, 15000)
+        // var s2 = new Student('Jack', 22, 14000)
+        // console.log(s1.constructor) //Student
+        // console.log(p1.constructor) //Person
+
+        //  组合继承优化1
+        // function Person(name, age) {
+        //     this.name = name,
+        //         this.age = age,
+        //         this.setAge = function () { }
+        // }
+        // Person.prototype.setAge = function () {
+        //     console.log("111")
+        // }
+        // function Student(name, age, price) {
+        //     Person.call(this, name, age)
+        //     this.price = price
+        //     this.setScore = function () { }
+        // }
+        // Student.prototype = Person.prototype
+        // Student.prototype.sayHello = function () { }
+        // var s1 = new Student('Tom', 20, 15000)
+        // console.log(s1)
+        // console.log(s1 instanceof Student, s1 instanceof Person)//true true
+        // console.log(s1.constructor)//Person
+
+        //组合继承优化2 
+        function Person(name, age) {
+            this.name = name,
+            this.age = age
+        }
+        Person.prototype.setAge = function () {
+            console.log("111")
+        }
+
+        function Student(name, age, price) {
+            Person.call(this, name, age)
+            this.price = price
+            this.setScore = function () {}
+        }
+        Student.prototype = Object.create(Person.prototype)
+        Student.prototype.constructor = Student
+        var s1 = new Student('Tom', 20, 15000)
+        console.log(s1 instanceof Student, s1 instanceof Person) // true true
+        console.log(s1.constructor) //Student
+        console.log(s1)
+
+        //ES6 class继承
+        // class Person {
+        //     //调用类的构造方法
+        //     constructor(name, age) {
+        //         this.name = name
+        //         this.age = age
+        //     }
+        //     //定义一般的方法
+        //     showName() {
+        //         console.log("调用父类的方法")
+        //         console.log(this.name, this.age);
+        //     }
+        // }
+        // let p1 = new Person('kobe', 39)
+        // console.log(p1)
+        // //定义一个子类
+        // class Student extends Person {
+        //     constructor(name, age, salary) {
+        //         super(name, age)
+        //         this.salary = salary
+        //     }
+        //     showName() { //在子类自身定义方法
+        //         console.log("调用子类的方法")
+        //         console.log(this.name, this.age, this.salary);
+        //     }
+        // }
+        // let s1 = new Student('wade', 38, 1000000000)
+        // let s2 = new Student('kobe', 40, 3000000000)
+        // console.log(s1.showName === s2.showName)//true
+        // console.log(s1)
+        // s1.showName()
+    </script>
+</body>
+
+</html>
