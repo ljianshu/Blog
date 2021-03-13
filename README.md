@@ -1,5 +1,5 @@
 # 博客目录
-努力打造一系列适合初中级工程师能够看得懂的优质文章，今年博客侧重于vue、node和webpack等底层原理分析，如果想第一时间获取文章，欢迎关注**我的公众号：前端工匠，接下去的路我们一起走！**  
+努力打造一系列适合初中级工程师能够看得懂的优质文章，今年博客侧重于vue、node和webpack等底层原理分析，如果想第一时间获取文章，欢迎关注**我的公众号：前端工匠，接下去的路我们一起走！**  欢迎添加我的个人微信frontJS，一起交流学习！
 
 ### 版权声明：本文为博主原创文章，未经博主允许不得转载。
 
@@ -46,6 +46,7 @@
 #### 7.[异步解决方案--Promise与Await](https://github.com/ljianshu/Blog/issues/13)
 #### 8.[JS 异步编程六种方案](https://github.com/ljianshu/Blog/issues/53)
 #### 9.[ES6迭代器和生成器](https://github.com/ljianshu/Blog/issues/42)
+
 ### |  CSS
 #### 1.[如何居中一个元素（终结版)](https://github.com/ljianshu/Blog/issues/29)
 #### 2.[关于响应式布局，你必须要知道的](https://github.com/ljianshu/Blog/issues/38)
@@ -54,6 +55,7 @@
 #### 5.[LESS即学即用](https://github.com/ljianshu/Blog/issues/19)
 #### 6.[几种常见的CSS布局](https://github.com/ljianshu/Blog/issues/40)
 #### 7.[实现三栏布局的几种方法](https://github.com/ljianshu/Blog/issues/14)
+
 ### |  Http协议与数据请求
 #### 1.[关于Http协议，你必须要知道的](https://github.com/ljianshu/Blog/issues/22)
 #### 2.[深入理解HTTPS工作原理](https://github.com/ljianshu/Blog/issues/50)
@@ -63,11 +65,13 @@
 #### 6.[Ajax原理一篇就够了](https://github.com/ljianshu/Blog/issues/45)
 #### 7.[Ajax请求后台数据](https://github.com/ljianshu/Blog/issues/46)
 #### 8.[fetch 如何请求数据](https://github.com/ljianshu/Blog/issues/47)
+
 ### |  页面性能优化与安全
 #### 1.[页面性能优化办法有哪些](https://github.com/ljianshu/Blog/issues/9)
 #### 2.[懒加载和预加载](https://github.com/ljianshu/Blog/issues/8)
 #### 3.[函数节流和防抖](https://github.com/ljianshu/Blog/issues/43).
 #### 4.[常见六大Web安全攻防解析](https://github.com/ljianshu/Blog/issues/56)
+
 ### |  Vue全家桶
 #### 1.[从头开始学习Vuex](https://github.com/ljianshu/Blog/issues/36)
 #### 2.[从头开始学习vue-router](https://github.com/ljianshu/Blog/issues/39)
@@ -77,11 +81,6 @@
 #### 6.[揭秘Vue中的Virtual Dom](https://github.com/ljianshu/Blog/issues/69) 
 #### 7.[深入理解vue响应式原理](https://github.com/ljianshu/Blog/issues/70)
 - [vue一些实用技巧（初稿）](https://github.com/ljianshu/Blog/issues/71)
-- vue中如何解析模板(写作中)
-- Vue渲染函数与函数式组件(写作中)
-- 说说Vue的MVVM实现原理(写作中)
-
-
 
 ### |  工具
 #### 1.[如何在线预览 GitHub 项目](https://github.com/ljianshu/Blog/issues/52)
