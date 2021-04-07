@@ -40,7 +40,7 @@
 #### 1.[ES6核心特性](https://github.com/ljianshu/Blog/issues/10)
 #### 2.[ES7、ES8、ES9、ES10新特性](https://github.com/ljianshu/Blog/issues/76)
 #### 3.[ES2020新特性](https://github.com/ljianshu/Blog/issues/79)
-#### 4.[ES2021新特性](https://github.com/ljianshu/Blog/issues/82)
+#### 4.[ES2021新特性](https://github.com/ljianshu/Blog/issues/92)
 #### 5.[7个令人兴奋的 JavaScript 新特性](https://github.com/ljianshu/Blog/issues/78)
 #### 6.[你真的懂Promise吗](https://github.com/ljianshu/Blog/issues/81)
 #### 7.[ES6数组的扩展--Array.from()和Array.of()](https://github.com/ljianshu/Blog/issues/12)
