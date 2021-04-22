@@ -35,7 +35,7 @@
 #### 14.[浏览器与Node的事件循环(Event Loop)有何区别?](https://github.com/ljianshu/Blog/issues/54)
 #### 15.[JavaScript中的垃圾回收和内存泄漏](https://github.com/ljianshu/Blog/issues/65)
 #### 16.[javascript函数式编程](https://github.com/ljianshu/Blog/issues/72)
-#### 17.[慎用Number.toFixed()](https://github.com/ljianshu/Blog/issues/93)
+#### 17.[慎用Number.toFixed()](https://github.com/ljianshu/Blog/issues/95)
 ### |  ES6+
 #### 1.[ES6核心特性](https://github.com/ljianshu/Blog/issues/10)
 #### 2.[ES7、ES8、ES9、ES10新特性](https://github.com/ljianshu/Blog/issues/76)
