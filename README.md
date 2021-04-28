@@ -93,6 +93,24 @@
 - 前端面试手写大合集(写作中)
 ### |  其他
 #### 1.[写技术博客那点事](https://github.com/ljianshu/Blog/issues/62)
+
+
+### |  备战大厂面试
+可以免费提供以下资料：
+
+- 大厂面试题及其答案（四份PDF囊括上千经典题）
+- vue/react/webpack源码视频深度讲解
+- JS/vue 常见面试题视频讲解
+- JavaScript版数据结构与算法视频资料
+- 简历模版等等
+
+感兴趣的扫描下方微信二维码（frontJS）找我领取，希望对你们有些许帮助！有时候图片显示不出来，直接加frontJS
+
+![WechatIMG42.jpeg](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/defb6ea8b53341afa18107f6a2d14e01~tplv-k3u1fbpfcp-watermark.image)
+
+![image.png](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5c077085dde74e8b8051329a964d72ad~tplv-k3u1fbpfcp-watermark.image)
+
+
 ### |  写作计划(暂定)
 今年除了对觉得不满意的以往文章进行迭代，还打算至少写三十篇原创高质量文章，目前预计会涉及到以下主题：
 - Vue深入系列
@@ -104,25 +122,5 @@
 - 前端数据结构与算法
 - 前端性能优化
 - Http协议与网络
-
-### |  备战大厂面试
-可以免费提供以下资料：
-
-- 大厂面试题及其答案（四份PDF囊括上千经典题）
-- vue/react/webpack源码视频深度讲解
-- JS/vue 常见面试题视频讲解
-- JavaScript版数据结构与算法视频资料
-- 简历模版等等
-
-感兴趣的扫描下方微信二维码（frontJS）找我领取，希望对你们有些许帮助！
-
-
-![Uploading WechatIMG42.jpeg…]()
-
-
-![Uploading image.png…]()
-
-
-
 
 
