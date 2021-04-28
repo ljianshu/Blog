@@ -100,27 +100,23 @@
 
 - 大厂面试题及其答案（四份PDF囊括上千经典题）
 - vue/react/webpack源码视频深度讲解
-- JS/vue 常见面试题视频讲解
+- JavaScript/vue 常见面试题视频讲解
 - JavaScript版数据结构与算法视频资料
 - 简历模版等等
 
 感兴趣的扫描下方微信二维码（frontJS）找我领取，希望对你们有些许帮助！有时候图片显示不出来，直接加frontJS
 
-![WechatIMG42.jpeg](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/defb6ea8b53341afa18107f6a2d14e01~tplv-k3u1fbpfcp-watermark.image)
-
-![image.png](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5c077085dde74e8b8051329a964d72ad~tplv-k3u1fbpfcp-watermark.image)
+![image.png](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/11390a27203f4d8baca25de05d84a760~tplv-k3u1fbpfcp-watermark.image)
 
 
 ### |  写作计划(暂定)
 今年除了对觉得不满意的以往文章进行迭代，还打算至少写三十篇原创高质量文章，目前预计会涉及到以下主题：
 - Vue深入系列
-- Node入门系列
-- TypeScript入门实战
+- TypeScript系列
 - Webpack配置与原理
 - JavaScript设计模式
 - JavaScript面向对象
 - 前端数据结构与算法
 - 前端性能优化
-- Http协议与网络
 
 
