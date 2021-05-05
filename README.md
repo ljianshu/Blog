@@ -36,6 +36,7 @@
 #### 15.[JavaScript中的垃圾回收和内存泄漏](https://github.com/ljianshu/Blog/issues/65)
 #### 16.[javascript函数式编程](https://github.com/ljianshu/Blog/issues/72)
 #### 17.[慎用Number.toFixed()](https://github.com/ljianshu/Blog/issues/95)
+#### 18.[你会用JSON.stringify()?](https://github.com/ljianshu/Blog/issues/97)
 ### |  ES6+
 #### 1.[ES6核心特性](https://github.com/ljianshu/Blog/issues/10)
 #### 2.[ES7、ES8、ES9、ES10新特性](https://github.com/ljianshu/Blog/issues/76)
