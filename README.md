@@ -82,7 +82,7 @@
 #### 5.[vue计算属性和watch的区别](https://github.com/ljianshu/Blog/issues/68)
 #### 6.[揭秘Vue中的Virtual Dom](https://github.com/ljianshu/Blog/issues/69) 
 #### 7.[深入理解vue响应式原理](https://github.com/ljianshu/Blog/issues/70)
-#### 8.[vue一些实用技巧](https://github.com/ljianshu/Blog/issues/71)
+#### 8.[令人眼前一亮的Vue实战技巧](https://github.com/ljianshu/Blog/issues/71)
 
 ### |  工具
 #### 1.[如何在线预览 GitHub 项目](https://github.com/ljianshu/Blog/issues/52)
