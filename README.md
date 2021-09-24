@@ -75,7 +75,7 @@
 #### 4.[常见六大Web安全攻防解析](https://github.com/ljianshu/Blog/issues/56)
 
 ### |  Vue全家桶
-#### 1、[Vue3.2 有哪些新变化？](https://github.com/ljianshu/Blog/issues/109)
+#### 1.[Vue3.2 有哪些新变化？](https://github.com/ljianshu/Blog/issues/109)
 #### 2.[从头开始学习Vuex](https://github.com/ljianshu/Blog/issues/36)
 #### 3.[从头开始学习vue-router](https://github.com/ljianshu/Blog/issues/39)
 #### 4.[vue组件三大核心概念](https://github.com/ljianshu/Blog/issues/67)
