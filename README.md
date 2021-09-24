@@ -75,14 +75,15 @@
 #### 4.[常见六大Web安全攻防解析](https://github.com/ljianshu/Blog/issues/56)
 
 ### |  Vue全家桶
-#### 1.[从头开始学习Vuex](https://github.com/ljianshu/Blog/issues/36)
-#### 2.[从头开始学习vue-router](https://github.com/ljianshu/Blog/issues/39)
-#### 3.[vue组件三大核心概念](https://github.com/ljianshu/Blog/issues/67)
-#### 4.[vue组件间通信六种方式（完整版）](https://github.com/ljianshu/Blog/issues/66)
-#### 5.[vue计算属性和watch的区别](https://github.com/ljianshu/Blog/issues/68)
-#### 6.[揭秘Vue中的Virtual Dom](https://github.com/ljianshu/Blog/issues/69) 
-#### 7.[深入理解vue响应式原理](https://github.com/ljianshu/Blog/issues/70)
-#### 8.[令人眼前一亮的Vue实战技巧](https://github.com/ljianshu/Blog/issues/71)
+#### 1、[Vue3.2 有哪些新变化？](https://github.com/ljianshu/Blog/issues/109)
+#### 2.[从头开始学习Vuex](https://github.com/ljianshu/Blog/issues/36)
+#### 3.[从头开始学习vue-router](https://github.com/ljianshu/Blog/issues/39)
+#### 4.[vue组件三大核心概念](https://github.com/ljianshu/Blog/issues/67)
+#### 5.[vue组件间通信六种方式（完整版）](https://github.com/ljianshu/Blog/issues/66)
+#### 6.[vue计算属性和watch的区别](https://github.com/ljianshu/Blog/issues/68)
+#### 7.[揭秘Vue中的Virtual Dom](https://github.com/ljianshu/Blog/issues/69) 
+#### 8.[深入理解vue响应式原理](https://github.com/ljianshu/Blog/issues/70)
+#### 9.[令人眼前一亮的Vue实战技巧](https://github.com/ljianshu/Blog/issues/71)
 
 ### |  工具
 #### 1.[如何在线预览 GitHub 项目](https://github.com/ljianshu/Blog/issues/52)
