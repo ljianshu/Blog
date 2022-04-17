@@ -86,8 +86,7 @@
 #### 9.[令人眼前一亮的Vue实战技巧](https://github.com/ljianshu/Blog/issues/71)
 
 ### |  工具
-#### 1.[如何在线预览 GitHub 项目](https://github.com/ljianshu/Blog/issues/52)
-#### 2.[让开发效率“飞起”的VS Code 插件](https://github.com/ljianshu/Blog/issues/80)
+#### 1.[让开发效率“飞起”的VS Code 插件](https://github.com/ljianshu/Blog/issues/80)
 ### |  实战
 #### 1.[vue全家桶制作一个精致的美团项目](https://github.com/ljianshu/Blog/issues/37)
 ### |  面试
