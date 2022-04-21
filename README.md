@@ -86,7 +86,7 @@
 
 ### |  工具
 #### 1.[团队如何统一代码规范？](https://github.com/ljianshu/Blog/issues/114)
-#### 1.[让开发效率“飞起”的VS Code 插件](https://github.com/ljianshu/Blog/issues/80)
+#### 2.[让开发效率“飞起”的VS Code 插件](https://github.com/ljianshu/Blog/issues/80)
 ### |  实战
 #### 1.[vue全家桶制作一个精致的美团项目](https://github.com/ljianshu/Blog/issues/37)
 ### |  面试
@@ -96,25 +96,9 @@
 #### 1.[写技术博客那点事](https://github.com/ljianshu/Blog/issues/62)
 
 
-### |  备战大厂面试
-可以免费提供以下资料：
-
-- 大厂面试题及其答案（四份PDF囊括上千经典题）
-- vue/react/webpack源码视频深度讲解
-- JavaScript/vue 常见面试题视频讲解
-- JavaScript版数据结构与算法视频资料
-- 简历模版等等
-
-感兴趣的扫描下方微信二维码（frontJS）找我领取，希望对你们有些许帮助！有时候图片显示不出来，直接加frontJS
-
-![image.png](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/11390a27203f4d8baca25de05d84a760~tplv-k3u1fbpfcp-watermark.image)
-
-
 ### |  写作计划(暂定)
-今年除了对觉得不满意的以往文章进行迭代，还打算至少写三十篇原创高质量文章，目前预计会涉及到以下主题：
-- Vue深入系列
+今年除了对觉得不满意的以往文章进行迭代，还打算写三十篇原创高质量文章，目前预计会涉及到以下主题：
+- Vue系列
 - TypeScript系列
-- Webpack配置与原理
 - JavaScript设计模式
-- JavaScript面向对象
 - 前端数据结构与算法
