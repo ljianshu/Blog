@@ -99,3 +99,17 @@
 - TypeScript系列
 - JavaScript设计模式
 - 前端数据结构与算法
+
+### |  备战大厂面试
+可以免费提供以下资料：
+
+- 大厂面试题及其答案（四份PDF囊括上千经典题）
+- vue/react/webpack源码视频深度讲解
+- JavaScript/vue 常见面试题视频讲解
+- JavaScript版数据结构与算法视频资料
+- 简历模版等等
+
+感兴趣的扫描下方微信二维码（frontJS）免费找我领取，备注：git,希望对你们有些许帮助！有时候图片显示不出来，直接加frontJS
+
+![image.png](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/11390a27203f4d8baca25de05d84a760~tplv-k3u1fbpfcp-watermark.image)
+
