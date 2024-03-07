@@ -93,15 +93,10 @@
 #### 1.[写技术博客那点事](https://github.com/ljianshu/Blog/issues/62)
 
 
-### |  写作计划(暂定)
-今年除了对觉得不满意的以往文章进行迭代，还打算写三十篇原创高质量文章，目前预计会涉及到以下主题：
-- Vue系列
-- TypeScript系列
-- JavaScript设计模式
-- 前端数据结构与算法
-
 ### |  备战大厂面试
 可以免费提供以下资料：
+如果想要vue3面试题，可以扫下下面二维码
+![vue3面试题.png](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/33c8c4000a4b46bbb734bd3a700c9b38~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=1353&h=2379&s=928241&e=png&b=fcfbfb)
 
 - 大厂面试题及其答案（四份PDF囊括上千经典题）
 - vue/react/webpack源码视频深度讲解
